@@ -1,0 +1,197 @@
+REGEDIT4
+
+; Version 1.09
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9702-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Play Control"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64a-9DF6-11d5-A383-009027449656}]
+"Name"="Record Control"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C647-9DF6-11d5-A383-009027449656}]
+"Name"="Front Rear Balance"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C645-9DF6-11d5-A383-009027449656}]
+"Name"="Bass"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C646-9DF6-11d5-A383-009027449656}]
+"Name"="Treble"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C649-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI Chorus"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C642-9DF6-11d5-A383-009027449656}]
+"Name"="Wave"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C648-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9707-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Line-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C644-9DF6-11d5-A383-009027449656}]
+"Name"="Microphone"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C643-9DF6-11d5-A383-009027449656}]
+"Name"="CD Audio"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9709-63D0-11d5-95E0-00A0C9817442}]
+"Name"="SPDIF-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64B-9DF6-11d5-A383-009027449656}]
+"Name"="Digital Out Only"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C641-9DF6-11d5-A383-009027449656}]
+"Name"="What U Hear"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C640-9DF6-11d5-A383-009027449656}]
+"Name"="Wave/MIDI/CD"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64C-9DF6-11d5-A383-009027449656}]
+"Name"="Line-In/Mic-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C652-9DF6-11d5-A383-009027449656}]
+"Name"="Line-In 1 / Mic-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64D-9DF6-11d5-A383-009027449656}]
+"Name"="Line-In 2 / Guitar Hi-Z"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64E-9DF6-11d5-A383-009027449656}]
+"Name"="Line-In 3 / Phono-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C650-9DF6-11d5-A383-009027449656}]
+"Name"="Microphone Boost"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C651-9DF6-11d5-A383-009027449656}]
+"Name"="Microphone Boost"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64F-9DF6-11d5-A383-009027449656}]
+"Name"="Analog Mix"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{45DA3CE2-C7BE-4305-A5B7-17886D6FEE67}]
+"Name"="MIDI Reverb"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C653-9DF6-11d5-A383-009027449656}]
+"Name"="Enable Monitoring"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C654-9DF6-11d5-A383-009027449656}]
+"Name"="Line/Mic/Video In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C655-9DF6-11d5-A383-009027449656}]
+"Name"="Video In Mute"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName]
+"Play Control"="Play"
+"Record Control"="Rec"
+"Front Rear Balance"="FrontRear"
+"Bass"="Bass"
+"Treble"="Treble"
+"MIDI Chorus"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line-In"="Line"
+"Microphone"="Mic"
+"Line-In/Mic-In"="LineMic"
+"CD Audio"="CD"
+"SPDIF-In"="GPSPDIF"
+"Digital Out Only"="DOO"
+"What U Hear"="UHear"
+"Wave/MIDI/CD"="HMix"
+"Line-In 1 / Mic-In"="Line1-Mic"
+"Line-In 2 / Guitar Hi-Z"="LineGuitar"
+"Line-In 3 / Phono-In"="LinePhono"
+"Analog Mix"="AnalogMix"
+"Microphone Boost"="MicBoost"
+"MIDI Reverb"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"Enable Monitoring"="Monitor"
+"Line/Mic/Video In"="LineMicV"
+"Video In Mute"="VideoInMute"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName]
+"Play"="Play Control"
+"Rec"="Record Control"
+"FrontRear"="Front Rear Balance"
+"Bass"="Bass"
+"Treble"="Treble"
+"Chorus"="MIDI Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="Line-In"
+"Mic"="Microphone"
+"LineMic"="Line-In/Mic-In"
+"CD"="CD Audio"
+"GPSPDIF"="SPDIF-In"
+"DOO"="Digital Out Only"
+"UHear"="What U Hear"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="Line-In 1 / Mic-In"
+"LineGuitar"="Line-In 2 / Guitar Hi-Z"
+"LinePhono"="Line-In 3 / Phono-In"
+"AnalogMix"="Analog Mix"
+"MicBoost"="Microphone Boost"
+"MIDIReverb"="MIDI Reverb"
+"Monitor"="Enable Monitoring"
+"LineMicV"="Line/Mic/Video In"
+"VideoInMute"="Video In Mute"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName\English]
+"Play Control"="Play"
+"Record Control"="Rec"
+"Front Rear Balance"="FrontRear"
+"Bass"="Bass"
+"Treble"="Treble"
+"MIDI Chorus"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line-In"="Line"
+"Microphone"="Mic"
+"Line-In/Mic-In"="LineMic"
+"CD Audio"="CD"
+"SPDIF-In"="GPSPDIF"
+"Digital Out Only"="DOO"
+"What U Hear"="UHear"
+"Wave/MIDI/CD"="HMix"
+"Line-In 1 / Mic-In"="Line1-Mic"
+"Line-In 2 / Guitar Hi-Z"="LineGuitar"
+"Line-In 3 / Phono-In"="LinePhono"
+"Analog Mix"="AnalogMix"
+"Microphone Boost"="MicBoost"
+"MIDI Reverb"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"Enable Monitoring"="Monitor"
+"Line/Mic/Video In"="LineMicV"
+"Video In Mute"="VideoInMute"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName\English]
+"Play"="Play Control"
+"Rec"="Record Control"
+"FrontRear"="Front Rear Balance"
+"Bass"="Bass"
+"Treble"="Treble"
+"Chorus"="MIDI Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="Line-In"
+"Mic"="Microphone"
+"LineMic"="Line-In/Mic-In"
+"CD"="CD Audio"
+"GPSPDIF"="SPDIF-In"
+"DOO"="Digital Out Only"
+"UHear"="What U Hear"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="Line-In 1 / Mic-In"
+"LineGuitar"="Line-In 2 / Guitar Hi-Z"
+"LinePhono"="Line-In 3 / Phono-In"
+"AnalogMix"="Analog Mix"
+"MicBoost"="Microphone Boost"
+"MIDIReverb"="MIDI Reverb"
+"Monitor"="Enable Monitoring"
+"LineMicV"="Line/Mic/Video In"
+"VideoInMute"="Video In Mute"
+
+; Not Localisable
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUSB\MixerName]
+"Language"="English"

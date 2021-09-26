@@ -1,0 +1,183 @@
+REGEDIT4
+
+; Version 1.07
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9702-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Control de reproducción"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64a-9DF6-11d5-A383-009027449656}]
+"Name"="Control de grabación"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C647-9DF6-11d5-A383-009027449656}]
+"Name"="Balance delantero/trasero"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C645-9DF6-11d5-A383-009027449656}]
+"Name"="Graves"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C646-9DF6-11d5-A383-009027449656}]
+"Name"="Agudos"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C649-9DF6-11d5-A383-009027449656}]
+"Name"="Coro MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C642-9DF6-11d5-A383-009027449656}]
+"Name"="Wave"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C648-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9707-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Entrada de línea"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C644-9DF6-11d5-A383-009027449656}]
+"Name"="Micrófono"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C643-9DF6-11d5-A383-009027449656}]
+"Name"="CD de audio"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9709-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Entrada de SPDIF"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64B-9DF6-11d5-A383-009027449656}]
+"Name"="Sólo salida digital"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C641-9DF6-11d5-A383-009027449656}]
+"Name"="Lo que se oye"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C640-9DF6-11d5-A383-009027449656}]
+"Name"="Wave/MIDI/CD"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64C-9DF6-11d5-A383-009027449656}]
+"Name"="Entrada de línea/Mic"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C652-9DF6-11d5-A383-009027449656}]
+"Name"="Entr. de línea 1 / Entr. de micrófono"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64D-9DF6-11d5-A383-009027449656}]
+"Name"="Entr. de línea 2 / Guitarra Hi-Z"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64E-9DF6-11d5-A383-009027449656}]
+"Name"="Entr. de línea 3 / Entr. de tocadiscos"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C650-9DF6-11d5-A383-009027449656}]
+"Name"="Incremento de micrófono"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C651-9DF6-11d5-A383-009027449656}]
+"Name"="Incremento de micrófono"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64F-9DF6-11d5-A383-009027449656}]
+"Name"="Mezcla analógica"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{45DA3CE2-C7BE-4305-A5B7-17886D6FEE67}]
+"Name"="Reverberación MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C653-9DF6-11d5-A383-009027449656}]
+"Name"="Activar supervisión"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName]
+"Control de reproducción"="Play"
+"Control de grabación"="Rec"
+"Balance delantero/trasero"="FrontRear"
+"Bass"="Bass"
+"Treble"="Treble"
+"Coro MIDI"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Entrada de línea"="Line"
+"Micrófono"="Mic"
+"Entrada de línea/Mic"="LineMic"
+"CD de audio"="CD"
+"Entrada de SPDIF"="GPSPDIF"
+"Sólo salida digital"="DOO"
+"Lo que se oye"="UHear"
+"Wave/MIDI/CD"="HMix"
+"Entr. de línea 1 / Entr. de micrófono"="Line1-Mic"
+"Entr. de línea 2 / Guitarra Hi-Z"="LineGuitar"
+"Entr. de línea 3 / Entr. de tocadiscos"="LinePhono"
+"Mezcla analógica"="AnalogMix"
+"Incremento de micrófono"="MicBoost"
+"Reverberación MIDI"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"Activar supervisión"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName]
+"Play"="Control de reproducción"
+"Rec"="Control de grabación"
+"FrontRear"="Balance delantero/trasero"
+"Bass"="Graves"
+"Treble"="Agudos"
+"Chorus"="Coro MIDI"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="Entrada de línea"
+"Mic"="Micrófono"
+"LineMic"="Entrada de línea/Mic"
+"CD"="CD de audio"
+"GPSPDIF"="Entrada de SPDIF"
+"DOO"="Sólo salida digital"
+"UHear"="Lo que se oye"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="Entr. de línea 1 / Entr. de micrófono"
+"LineGuitar"="Entr. de línea 2 / Guitarra Hi-Z"
+"LinePhono"="Entr. de línea 3 / Entr. de tocadiscos"
+"AnalogMix"="Mezcla analógica"
+"MicBoost"="Incremento de micrófono"
+"MIDIReverb"="Reverberación MIDI"
+"Monitor"="Activar supervisión"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName\Spanish]
+"Control de reproducción"="Play"
+"Control de grabación"="Rec"
+"Balance delantero/trasero"="FrontRear"
+"Graves"="Bass"
+"Agudos"="Treble"
+"Coro MIDI"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Entrada de línea"="Line"
+"Micrófono"="Mic"
+"Entrada de línea/Mic"="LineMic"
+"CD de audio"="CD"
+"Entrada de SPDIF"="GPSPDIF"
+"Sólo salida digital"="DOO"
+"Lo que se oye"="UHear"
+"Wave/MIDI/CD"="HMix"
+"Entr. de línea 1 / Entr. de micrófono"="Line1-Mic"
+"Entr. de línea 2 / Guitarra Hi-Z"="LineGuitar"
+"Entr. de línea 3 / Entr. de tocadiscos"="LinePhono"
+"Mezcla analógica"="AnalogMix"
+"Incremento de micrófono"="MicBoost"
+"Reverberación MIDI"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"Activar supervisión"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName\Spanish]
+"Play"="Control de reproducción"
+"Rec"="Control de grabación"
+"FrontRear"="Balance delantero/trasero"
+"Bass"="Graves"
+"Treble"="Agudos"
+"Chorus"="Coro MIDI"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="Entrada de línea"
+"Mic"="Micrófono"
+"LineMic"="Entrada de línea/Mic"
+"CD"="CD de audio"
+"GPSPDIF"="Entrada de SPDIF"
+"DOO"="Sólo salida digital"
+"UHear"="Lo que se oye"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="Entr. de línea 1 / Entr. de micrófono"
+"LineGuitar"="Entr. de línea 2 / Guitarra Hi-Z"
+"LinePhono"="Entr. de línea 3 / Entr. de tocadiscos"
+"AnalogMix"="Mezcla analógica"
+"MicBoost"="Incremento de micrófono"
+"MIDIReverb"="Reverberación MIDI"
+"Monitor"="Activar supervisión"
+
+; Not Localisable
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUSB\MixerName]
+"Language"="Spanish"

@@ -1,0 +1,183 @@
+REGEDIT4
+
+; Version 1.07
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9702-63D0-11d5-95E0-00A0C9817442}]
+"Name"="재생 컨트롤"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64a-9DF6-11d5-A383-009027449656}]
+"Name"="녹음 컨트롤"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C647-9DF6-11d5-A383-009027449656}]
+"Name"="전후면 밸런스"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C645-9DF6-11d5-A383-009027449656}]
+"Name"="저음"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C646-9DF6-11d5-A383-009027449656}]
+"Name"="고음"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C649-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI 코러스"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C642-9DF6-11d5-A383-009027449656}]
+"Name"="Wave"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C648-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9707-63D0-11d5-95E0-00A0C9817442}]
+"Name"="라인 입력"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C644-9DF6-11d5-A383-009027449656}]
+"Name"="마이크"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C643-9DF6-11d5-A383-009027449656}]
+"Name"="CD 오디오"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9709-63D0-11d5-95E0-00A0C9817442}]
+"Name"="SPDIF 입력"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64B-9DF6-11d5-A383-009027449656}]
+"Name"="디지털 출력 전용"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C641-9DF6-11d5-A383-009027449656}]
+"Name"="들리는 내용"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C640-9DF6-11d5-A383-009027449656}]
+"Name"="Wave/MIDI/CD"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64C-9DF6-11d5-A383-009027449656}]
+"Name"="라인 입력/마이크 입력"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C652-9DF6-11d5-A383-009027449656}]
+"Name"="라인 입력 1/마이크 입력"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64D-9DF6-11d5-A383-009027449656}]
+"Name"="라인 입력 2/기타 Hi-Z"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64E-9DF6-11d5-A383-009027449656}]
+"Name"="라인 입력 3/포노 입력"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C650-9DF6-11d5-A383-009027449656}]
+"Name"="마이크 부스트"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C651-9DF6-11d5-A383-009027449656}]
+"Name"="마이크 부스트"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64F-9DF6-11d5-A383-009027449656}]
+"Name"="아날로그 믹스"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{45DA3CE2-C7BE-4305-A5B7-17886D6FEE67}]
+"Name"="MIDI 리버브"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C653-9DF6-11d5-A383-009027449656}]
+"Name"="모니터링 사용"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName]
+"재생 컨트롤"="Play"
+"녹음 컨트롤"="Rec"
+"전후면 밸런스"="FrontRear"
+"저음"="Bass"
+"고음"="Treble"
+"MIDI 코러스"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"라인 입력"="Line"
+"마이크"="Mic"
+"라인 입력/마이크 입력"="LineMic"
+"CD 오디오"="CD"
+"SPDIF 입력"="GPSPDIF"
+"디지털 출력 전용"="DOO"
+"들리는 내용"="UHear"
+"Wave/MIDI/CD"="HMix"
+"라인 입력 1/마이크 입력"="Line1-Mic"
+"라인 입력 2/기타 Hi-Z"="LineGuitar"
+"라인 입력 3/포노 입력"="LinePhono"
+"아날로그 믹스"="AnalogMix"
+"마이크 부스트"="MicBoost"
+"MIDI 리버브"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"모니터링 사용"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName]
+"Play"="재생 컨트롤"
+"Rec"="녹음 컨트롤"
+"FrontRear"="전후면 밸런스"
+"Bass"="저음"
+"Treble"="고음"
+"Chorus"="MIDI 코러스"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="라인 입력"
+"Mic"="마이크"
+"LineMic"="라인 입력/마이크 입력"
+"CD"="CD 오디오"
+"GPSPDIF"="SPDIF 입력"
+"DOO"="디지털 출력 전용"
+"UHear"="들리는 내용"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="라인 입력 1/마이크 입력"
+"LineGuitar"="라인 입력 2/기타 Hi-Z"
+"LinePhono"="라인 입력 3/포노 입력"
+"AnalogMix"="아날로그 믹스"
+"MicBoost"="마이크 부스트"
+"MIDIReverb"="MIDI 리버브"
+"Monitor"="모니터링 사용"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName\Korean]
+"재생 컨트롤"="Play"
+"녹음 컨트롤"="Rec"
+"전후면 밸런스"="FrontRear"
+"저음"="Bass"
+"고음"="Treble"
+"MIDI 코러스"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"라인 입력"="Line"
+"마이크"="Mic"
+"라인 입력/마이크 입력"="LineMic"
+"CD 오디오"="CD"
+"SPDIF 입력"="GPSPDIF"
+"디지털 출력 전용"="DOO"
+"들리는 내용"="UHear"
+"Wave/MIDI/CD"="HMix"
+"라인 입력 1/마이크 입력"="Line1-Mic"
+"라인 입력 2/기타 Hi-Z"="LineGuitar"
+"라인 입력 3/포노 입력"="LinePhono"
+"아날로그 믹스"="AnalogMix"
+"마이크 부스트"="MicBoost"
+"MIDI 리버브"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"모니터링 사용"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName\Korean]
+"Play"="재생 컨트롤"
+"Rec"="녹음 컨트롤"
+"FrontRear"="전후면 밸런스"
+"Bass"="저음"
+"Treble"="고음"
+"Chorus"="MIDI 코러스"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="라인 입력"
+"Mic"="마이크"
+"LineMic"="라인 입력/마이크 입력"
+"CD"="CD 오디오"
+"GPSPDIF"="SPDIF 입력"
+"DOO"="디지털 출력 전용"
+"UHear"="들리는 내용"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="라인 입력 1/마이크 입력"
+"LineGuitar"="라인 입력 2/기타 Hi-Z"
+"LinePhono"="라인 입력 3/포노 입력"
+"AnalogMix"="아날로그 믹스"
+"MicBoost"="마이크 부스트"
+"MIDIReverb"="MIDI 리버브"
+"Monitor"="모니터링 사용"
+
+; Not Localisable
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUSB\MixerName]
+"Language"="Korean"

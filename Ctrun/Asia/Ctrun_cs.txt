@@ -1,0 +1,223 @@
+[Ctrun_cs.dbd]
+DAT=
+
+[DAT.Software.Scene4 Title]
+Type=2
+Data=简体中文版安装
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Software.Select Software]
+Type=2
+Data=请选择您想安装的应用程序
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Software.Button 1 Checked State]
+Type=4
+Data=  SB Live! 24-bit External
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Software.Button 2 Checked State]
+Type=4
+Data=  Creative MediaSource
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Software.Button 3 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Software.Button 4 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Software.View]
+Type=2
+Data=查看
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Software.User's Guide]
+Type=2
+Data=用户指南
+Caption=
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Software.Multiple User Guide Menu]
+Type=13
+Title=
+Instructions=
+Data1=
+Data2=
+Font=宋体
+Point Size=0
+
+[DAT.Software.Tech Support]
+Type=2
+Data=客户支持服务
+Caption=
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Software.Creative Products]
+Type=2
+Data=Creative 产品
+Caption=
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Software.Install]
+Type=2
+Data=安装
+Caption=
+Tooltip=
+Font=宋体
+Point Size=11
+
+[DAT.Software.Install Disabled]
+Type=2
+Data=安装
+Caption=
+Tooltip=
+Font=宋体
+Point Size=11
+
+[DAT.Software.Back]
+Type=2
+Data=上一步
+Caption=
+Tooltip=
+Font=宋体
+Point Size=11
+
+[DAT.Software.Back Disabled]
+Type=2
+Data=上一步
+Caption=
+Tooltip=
+Font=宋体
+Point Size=11
+
+[DAT.Software.Exit1]
+Type=2
+Data=退出
+Caption=
+Tooltip=
+Font=宋体
+Point Size=11
+
+[DAT.Software.Exit2]
+Type=2
+Data=退出
+Caption=
+Tooltip=
+Font=宋体
+Point Size=11
+
+[DAT.Software.Installing Text]
+Type=2
+Data=正在执行安装程序。 请稍候...
+Caption=
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Software.Exit Text]
+Type=2
+Data=单击'退出'退出安装
+Caption=
+Tooltip=
+Font=宋体
+Point Size=9
+
+[DAT.Success.Scene5 Title]
+Type=2
+Data=成功安装
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Success.Congratulations Title]
+Type=2
+Data=祝贺您！
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Success.Congratulations Text]
+Type=2
+Data=Creative Sound Blaster Live! 24-bit External 已成功安装。您需要重新启动电脑，以使做出的更改生效。
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Success.Install]
+Type=2
+Data=下一步
+Caption=
+Tooltip=
+Font=宋体
+Point Size=11
+
+[DAT.Restart PC.Scene6 Title]
+Type=2
+Data=重新启动电脑
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Restart PC.Restart Text]
+Type=2
+Data=您的系统必须重新启动，以使做出的更改生效。 
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Restart PC.Restart Button Text]
+Type=2
+Data=是，现在就重新启动电脑
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Restart PC.No Restart Button Text]
+Type=2
+Data=不，稍后再重新启动电脑
+Caption=
+Tooltip=
+Font=宋体
+Point Size=10
+
+[DAT.Restart PC.Next]
+Type=2
+Data=完成
+Caption=
+Tooltip=
+Font=宋体
+Point Size=11

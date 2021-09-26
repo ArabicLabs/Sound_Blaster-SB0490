@@ -1,0 +1,982 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb]
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb]
+"NumPresets"=dword:0000000f
+"Version"=dword:00010000
+"CurPreset"=dword:00000000
+"CurPresetType"=hex:e0,a0,db,c3,02,25,d4,11,b7,e6,00,a0,c9,8e,4e,8f
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names]
+"NumNames"=dword:00000010
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\English]
+"0"="(No Effects)"
+"1"="Auditorium"
+"2"="Ball Park"
+"3"="Bathroom"
+"4"="Cathedral"
+"5"="Chapel"
+"6"="Church"
+"7"="Concert Hall"
+"8"="Garage"
+"9"="Haunted Cavern"
+"10"="Indoor Arena"
+"11"="Jazz Club"
+"12"="Living Room"
+"13"="Opera House"
+"14"="Small Room"
+"15"="Theater"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\Dutch]
+"0"="(Geen effecten)"
+"1"="Auditorium"
+"2"="Open stadium"
+"3"="Badkamer"
+"4"="Kathedraal"
+"5"="Kapel"
+"6"="Kerk"
+"7"="Concertzaal"
+"8"="Garage"
+"9"="Spookgrot"
+"10"="Indoor arena"
+"11"="Jazzclub"
+"12"="Huiskamer"
+"13"="Operatheater"
+"14"="Kleine kamer"
+"15"="Theater"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\German]
+"0"="(Keine Effekte)"
+"1"="Auditorium"
+"2"="Baseballstadion"
+"3"="Badezimmer"
+"4"="Kathedrale"
+"5"="Kapelle"
+"6"="Kirche"
+"7"="Konzerthalle"
+"8"="Garage"
+"9"="Spukhˆhle"
+"10"="Hallenarena"
+"11"="Jazzclub"
+"12"="Wohnzimmer"
+"13"="Opernhaus"
+"14"="Kammer"
+"15"="Theater"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\Italian]
+"0"="(Nessun effetto)"
+"1"="Auditorium"
+"2"="Campo da gioco"
+"3"="Stanza da bagno"
+"4"="Cattedrale"
+"5"="Cappella"
+"6"="Chiesa"
+"7"="Sala concerti"
+"8"="Garage"
+"9"="Caverna dei fantasmi"
+"10"="Arena al coperto"
+"11"="Jazz Club"
+"12"="Salotto"
+"13"="Teatro dell'opera"
+"14"="Piccola stanza"
+"15"="Teatro"
+
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\Spanish]
+"0"="(Sin efectos)"
+"1"="Auditorio"
+"2"="Cancha"
+"3"="Cuarto de baÒo"
+"4"="Catedral"
+"5"="Capilla"
+"6"="Iglesia"
+"7"="Sala de conciertos"
+"8"="Garaje"
+"9"="Caverna hechizada"
+"10"="Estadio interior"
+"11"="Club de jazz"
+"12"="Sala de estar"
+"13"="Teatro de la Ûpera"
+"14"="HabitaciÛn pequeÒa"
+"15"="Teatro"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\Brazillian]
+"0"="(Nenhum efeito)"
+"1"="AuditÛrio"
+"2"="Quadra de esporte"
+"3"="Banheiro"
+"4"="Catedral"
+"5"="Capela"
+"6"="Igreja"
+"7"="Sala de concertos"
+"8"="Garagem"
+"9"="Caverna mal-assombrada"
+"10"="Arena fechada"
+"11"="Clube de jazz"
+"12"="Sala de estar"
+"13"="”pera"
+"14"="Saleta"
+"15"="Teatro"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\Japanese]
+"0"="(¥Ã™∏ƒÇ»Çµ)"
+"1"="çuì∞"
+"2"="ñÏãÖèÍ"
+"3"="óÅé∫"
+"4"="ëÂêπì∞"
+"5"="óÁîqì∞"
+"6"="ã≥âÔ"
+"7"="∫›ª∞ƒŒ∞Ÿ"
+"8"="∂ﬁ⁄∞ºﬁ"
+"9"="ì¥åA"
+"10"="≤›ƒﬁ± ±ÿ∞≈"
+"11"="ºﬁ¨Ωﬁ ∏◊Ãﬁ"
+"12"="ÿÀﬁ›∏ﬁ Ÿ∞—"
+"13"="µÕﬂ◊  ≥Ω"
+"14"="è¨ïîâÆ"
+"15"="åÄèÍ"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\French]
+"0"="(Aucun effet)"
+"1"="Auditorium"
+"2"="Stade"
+"3"="Salle de bains"
+"4"="CathÈdrale"
+"5"="Chapelle"
+"6"="Eglise"
+"7"="Salle de concert"
+"8"="Garage"
+"9"="Caverne hantÈe"
+"10"="Salle de spectacle"
+"11"="Club de jazz"
+"12"="Salle de sÈjour"
+"13"="OpÈra"
+"14"="Petite salle"
+"15"="ThÈ‚tre"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\CSimp]
+"0"="(Œﬁ–ßπ˚)"
+"1"="¿ÒÃ√"
+"2"="«Ú≥°"
+"3"="‘° “"
+"4"="ΩÃÃ√(Cathedral)"
+"5"="ΩÃÃ√(Chapel)"
+"6"="ΩÃÃ√(Church)"
+"7"="“Ù¿÷Ã¸"
+"8"="≥µø‚"
+"9"="…Ω∂¥(Haunted Cavern)"
+"10"="ÃÂ”˝π›"
+"11"="æÙ øæ„¿÷≤ø"
+"12"="∆æ” “"
+"13"="∏ËæÁ‘∫"
+"14"="–°∑øº‰"
+"15"="æÁ‘∫(Theater)"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\CTrad]
+"0"="(µLÆƒ™G)"
+"1"="¬ß∞Û"
+"2"="≤y≥ı"
+"3"="ØD´«"
+"4"="±–∞Û(Cathedral)"
+"5"="±–∞Û(Chapel)"
+"6"="±–∞Û(Church)"
+"7"="≠µº÷∆U"
+"8"="®ÆÆw"
+"9"="§s¨}(Haunted Cavern)"
+"10"="≈È®|¿]"
+"11"="¿Ô§h≠—º÷≥°"
+"12"="∞_©~´«"
+"13"="∫qº@∞|"
+"14"="§p©–∂°"
+"15"="º@∞|(Theater)"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\Swedish]
+"0"="(No Effects)"
+"1"="Auditorium"
+"2"="Ball Park"
+"3"="Bathroom"
+"4"="Cathedral"
+"5"="Chapel"
+"6"="Church"
+"7"="Concert Hall"
+"8"="Garage"
+"9"="Haunted Cavern"
+"10"="Indoor Arena"
+"11"="Jazz Club"
+"12"="Living Room"
+"13"="Opera House"
+"14"="Small Room"
+"15"="Theater"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Names\Korean]
+"0"="(¿Ã∆Â∆Æ æ¯¿Ω)"
+"1"="∞≠¥Á"
+"2"="æﬂ±∏¿Â"
+"3"="øÂΩ«"
+"4"="º∫¥Á"
+"5"="øππË¥Á"
+"6"="±≥»∏"
+"7"="ƒ‹º≠∆Æ »¶"
+"8"="¡÷¬˜¿Â"
+"9"="¿Ø∑… µø±º"
+"10"="Ω«≥ª ∞Ê±‚¿Â"
+"11"="¿Á¡Ó ≈¨∑¥"
+"12"="∞≈Ω«"
+"13"="ø¿∆‰∂Û «œøÏΩ∫"
+"14"="¿€¿∫ πÊ"
+"15"="±ÿ¿Â"
+
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev0]
+@="Auditorium"
+"0"="-790"
+"1"="-476"
+"2"="0.0"
+"3"="4.32"
+"4"="0.59"
+"5"="-789"
+"6"="0.020"
+"7"="-289"
+"8"="0.030"
+"9"="21.6"
+"10"="1.00"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.0"
+"15"="0.25"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev1]
+@="Ball Park"
+"0"="-1190"
+"1"="0"
+"2"="0.0"
+"3"="14.69"
+"4"="1.54"
+"5"="790"
+"6"="0.089"
+"7"="-10000"
+"8"="0.076"
+"9"="7.7"
+"10"="1.00"
+"11"="-5.00"
+"12"="0.30"
+"13"="0.075"
+"14"="0.0"
+"15"="0.04"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000041
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev2]
+@="Bathroom"
+"0"="-370"
+"1"="-1200"
+"2"="0.0"
+"3"="1.49"
+"4"="0.54"
+"5"="-370"
+"6"="0.007"
+"7"="1030"
+"8"="0.011"
+"9"="1.4"
+"10"="1.00"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.0"
+"15"="0.25"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev3]
+@="Cathedral"
+"0"="0"
+"1"="-1020"
+"2"="0.0"
+"3"="5.9"
+"4"="0.7"
+"5"="-4660"
+"6"="0.048"
+"7"="140"
+"8"="0.048"
+"9"="10.0"
+"10"="0.80"
+"11"="-9.00"
+"12"="0.09"
+"13"="0.20"
+"14"="0.0"
+"15"="0.128"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev4]
+@="Chapel"
+"0"="0"
+"1"="-490"
+"2"="0.0"
+"3"="2.03"
+"4"="0.5"
+"5"="-7120"
+"6"="0.023"
+"7"="-330"
+"8"="0.044"
+"9"="10.0"
+"10"="0.50"
+"11"="-7.00"
+"12"="0.05"
+"13"="0.213"
+"14"="0.0"
+"15"="0.208"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000041
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev5]
+@="Church"
+"0"="0"
+"1"="-1500"
+"2"="0.0"
+"3"="2.32"
+"4"="0.7"
+"5"="-5830"
+"6"="0.032"
+"7"="-720"
+"8"="0.037"
+"9"="10.0"
+"10"="0.72"
+"11"="-5.00"
+"12"="0.07"
+"13"="0.192"
+"14"="0.0"
+"15"="0.128"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev6]
+@="Concert Hall"
+"0"="-390"
+"1"="-500"
+"2"="0.0"
+"3"="3.92"
+"4"="0.70"
+"5"="-1230"
+"6"="0.020"
+"7"="-2"
+"8"="0.029"
+"9"="19.6"
+"10"="1.00"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.0"
+"15"="0.25"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev7]
+@="Garage"
+"0"="0"
+"1"="-390"
+"2"="0.0"
+"3"="1.45"
+"4"="0.72"
+"5"="310"
+"6"="0.025"
+"7"="-910"
+"8"="0.012"
+"9"="10.0"
+"10"="0.80"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.0"
+"15"="1.67"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev8]
+@="Haunted Cavern"
+"0"="0"
+"1"="-1500"
+"2"="0.0"
+"3"="17.01"
+"4"="0.91"
+"5"="790"
+"6"="0.111"
+"7"="1070"
+"8"="0.050"
+"9"="10.0"
+"10"="0.40"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.413"
+"15"="0.042"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000000
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev9]
+@="Indoor Arena"
+"0"="-600"
+"1"="-390"
+"2"="0.0"
+"3"="4.25"
+"4"="0.41"
+"5"="-120"
+"6"="0.05"
+"7"="830"
+"8"="0.021"
+"9"="10.0"
+"10"="0.90"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.099"
+"14"="0.086"
+"15"="0.2"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:0000003c
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev10]
+@="Jazz Club"
+"0"="-600"
+"1"="-530"
+"2"="0.0"
+"3"="1.26"
+"4"="0.7"
+"5"="-170"
+"6"="0.006"
+"7"="720"
+"8"="0.093"
+"9"="10.0"
+"10"="1.00"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.0"
+"15"="0.057"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000041
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev11]
+@="Living Room"
+"0"="-1360"
+"1"="-6000"
+"2"="0.0"
+"3"="0.50"
+"4"="0.10"
+"5"="-1376"
+"6"="0.003"
+"7"="-1104"
+"8"="0.004"
+"9"="2.5"
+"10"="1.00"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.0"
+"15"="0.25"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev12]
+@="Opera House"
+"0"="0"
+"1"="-300"
+"2"="0.0"
+"3"="6.2"
+"4"="1.06"
+"5"="-816"
+"6"="0.083"
+"7"="-1090"
+"8"="0.011"
+"9"="31.0"
+"10"="0.95"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.0"
+"15"="0.395"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev13]
+@="Small Room"
+"0"="0"
+"1"="-440"
+"2"="0.0"
+"3"="0.4"
+"4"="0.83"
+"5"="-1620"
+"6"="0.002"
+"7"="430"
+"8"="0.003"
+"9"="2.0"
+"10"="0.90"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.25"
+"14"="0.0"
+"15"="0.25"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\Rev14]
+@="Theater"
+"0"="-20"
+"1"="-340"
+"2"="0.0"
+"3"="2.0"
+"4"="0.7"
+"5"="-660"
+"6"="0.01"
+"7"="540"
+"8"="0.015"
+"9"="10.0"
+"10"="1.00"
+"11"="-5.00"
+"12"="0.0"
+"13"="0.128"
+"14"="0.0"
+"15"="0.128"
+"16"="5000"
+"17"=dword:00000001
+"18"=dword:00000001
+"19"=dword:00000001
+"20"=dword:00000001
+"21"=dword:00000001
+"22"=dword:00000001
+"23"="5000"
+"ReverbLevel"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3010\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"CDVol"=hex:ff,bf,ff,bf
+"LineVol"=hex:00,80,00,80
+"MicVol"=hex:ff,bf,ff,bf
+"WaveVol"=hex:00,80,00,80
+"MIDIVol"=hex:00,80,00,80
+"GPSPDIFVol"=hex:32,f3,32,f3
+"PlayMt"=hex:00,00,00,00
+"CDMt"=hex:00,00,00,00
+"LineMt"=hex:00,00,00,00
+"MicMt"=hex:01,00,01,00
+"WaveMt"=hex:00,00,00,00
+"MIDIMt"=hex:00,00,00,00
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"GPSPDIFMt"=hex:00,00,00,00
+"FrontRear"=hex:00,80,00,80
+"Bass"=hex:00,80,00,80
+"Chorus"=hex:00,00,00,00
+"Treble"=hex:00,80,00,80
+"WaveDSVol"=hex:ff,ff,ff,ff
+"WaveDSMt"=hex:00,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3010\Rec]
+"LineVol"=hex:00,80,00,80
+"GPSPDIFVol"=hex:00,80,00,80
+"MicVol"=hex:ff,bf,ff,bf
+"HMixVol"=hex:ff,bf,ff,bf
+"UHearVol"=hex:ff,ff,ff,ff
+"Select"="HMix"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3014\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"CDVol"=hex:ff,bf,ff,bf
+"LineVol"=hex:00,80,00,80
+"MicVol"=hex:ff,bf,ff,bf
+"WaveVol"=hex:00,80,00,80
+"MIDIVol"=hex:00,80,00,80
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"GPSPDIFVol"=hex:32,f3,32,f3
+"PlayMt"=hex:00,00,00,00
+"CDMt"=hex:00,00,00,00
+"LineMt"=hex:00,00,00,00
+"MicMt"=hex:01,00,01,00
+"WaveMt"=hex:00,00,00,00
+"MIDIMt"=hex:00,00,00,00
+"GPSPDIFMt"=hex:00,00,00,00
+"FrontRear"=hex:00,80,00,80
+"Bass"=hex:00,80,00,80
+"Chorus"=hex:00,00,00,00
+"Treble"=hex:00,80,00,80
+"WaveDSVol"=hex:ff,ff,ff,ff
+"WaveDSMt"=hex:00,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3014\Rec]
+"LineVol"=hex:00,80,00,80
+"GPSPDIFVol"=hex:00,80,00,80
+"MicVol"=hex:ff,bf,ff,bf
+"HMixVol"=hex:ff,bf,ff,bf
+"UHearVol"=hex:ff,ff,ff,ff
+"Select"="HMix"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3015\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"CDVol"=hex:ff,bf,ff,bf
+"LineVol"=hex:00,80,00,80
+"WaveVol"=hex:00,80,00,80
+"MIDIVol"=hex:00,80,00,80
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"GPSPDIFVol"=hex:32,f3,32,f3
+"PlayMt"=hex:00,00,00,00
+"CDMt"=hex:00,00,00,00
+"LineMt"=hex:00,00,00,00
+"WaveMt"=hex:00,00,00,00
+"MIDIMt"=hex:00,00,00,00
+"GPSPDIFMt"=hex:00,00,00,00
+"FrontRear"=hex:00,80,00,80
+"Bass"=hex:00,80,00,80
+"Chorus"=hex:00,00,00,00
+"Treble"=hex:00,80,00,80
+"WaveDSVol"=hex:ff,ff,ff,ff
+"WaveDSMt"=hex:00,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3015\Rec]
+"LineVol"=hex:00,80,00,80
+"HMixVol"=hex:ff,bf,ff,bf
+"UHearVol"=hex:ff,ff,ff,ff
+"Select"="HMix"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3020\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"PlayMt"=hex:00,00,00,00
+"WaveVol"=hex:00,80,00,80
+"WaveMt"=hex:00,00,00,00
+"GPSPDIFVol"=hex:32,f3,32,f3
+"GPSPDIFMt"=hex:00,00,00,00
+"MIDIVol"=hex:00,80,00,80
+"MIDIMt"=hex:00,00,00,00
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"LineMicVol"=hex:00,80,00,80
+"LineMicMt"=hex:00,00,00,00
+"CDVol"=hex:ff,bf,ff,bf
+"CDMt"=hex:00,00,00,00
+"Chorus"=hex:00,00,00,00
+"DOO"=hex:00,00,00,00
+"SpeakerVol"=hex:3c,ca,3c,ca
+"HeadphoneVol"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3020\Rec]
+"LineMicVol"=hex:00,80,00,80
+"GPSPDIFVol"=hex:00,80,00,80
+"HMixVol"=hex:ff,ff,ff,ff
+"UHearVol"=hex:00,80,00,80
+"Select"="UHear"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\DeviceSettings\USB\VID_041E&PID_3020\Defaults]
+"Speaker"=hex:d5,45,8e,11,02,5b,4f,4e,9f,10,d1,70,fc,d4,f6,db
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3030\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"PlayMt"=hex:00,00,00,00
+"WaveVol"=hex:00,80,00,80
+"WaveMt"=hex:00,00,00,00
+"GPSPDIFVol"=hex:32,f3,32,f3
+"GPSPDIFMt"=hex:00,00,00,00
+"MIDIVol"=hex:00,80,00,80
+"MIDIMt"=hex:00,00,00,00
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"Line1-MicVol"=hex:00,80,00,80
+"Line1-MicMt"=hex:00,00,00,00
+"LineGuitarVol"=hex:00,80,00,80
+"LineGuitarMt"=hex:00,00,00,00
+"LinePhonoVol"=hex:00,80,00,80
+"LinePhonoMt"=hex:00,00,00,00
+"CDVol"=hex:ff,bf,ff,bf
+"CDMt"=hex:00,00,00,00
+"Bass"=hex:00,80,00,80
+"Treble"=hex:00,80,00,80
+"Chorus"=hex:00,00,00,00
+"DOO"=hex:00,00,00,00
+"SpeakerVol"=hex:3c,ca,3c,ca
+"HeadphoneVol"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3030\Rec]
+"LineGuitarVol"=hex:00,80,00,80
+"LinePhonoVol"=hex:00,80,00,80
+"Line1-MicVol"=hex:00,80,00,80
+"GPSPDIFVol"=hex:00,80,00,80
+"HMixVol"=hex:ff,bf,ff,bf
+"UHearVol"=hex:ff,ff,ff,ff
+"AnalogMixVol"=hex:ff,bf,ff,bf
+"Select"="UHear"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\DeviceSettings\USB\VID_041E&PID_3030\Defaults]
+"Speaker"=hex:2d,a8,9a,0b,56,e5,ee,43,8e,ba,ec,4e,a5,8f,09,dc
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3060\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"PlayMt"=hex:00,00,00,00
+"WaveVol"=hex:00,80,00,80
+"WaveMt"=hex:00,00,00,00
+"GPSPDIFVol"=hex:32,f3,32,f3
+"GPSPDIFMt"=hex:00,00,00,00
+"MIDIVol"=hex:00,80,00,80
+"MIDIMt"=hex:00,00,00,00
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"LineMicVol"=hex:00,80,00,80
+"LineMicMt"=hex:00,00,00,00
+"CDVol"=hex:ff,bf,ff,bf
+"CDMt"=hex:00,00,00,00
+"Bass"=hex:00,80,00,80
+"Treble"=hex:00,80,00,80
+"Chorus"=hex:00,00,00,00
+"DOO"=hex:00,00,00,00
+"SpeakerVol"=hex:3c,ca,3c,ca
+"HeadphoneVol"=hex:00,80,00,80
+"DINVol"=hex:ff,73,ff,73
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3060\Rec]
+"LineMicVol"=hex:00,80,00,80
+"GPSPDIFVol"=hex:00,80,00,80
+"HMixVol"=hex:ff,bf,ff,bf
+"UHearVol"=hex:ff,ff,ff,ff
+"AnalogMixVol"=hex:ff,bf,ff,bf
+"Select"="UHear"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\DeviceSettings\USB\VID_041E&PID_3060\Defaults]
+"Speaker"=hex:2d,a8,9a,0b,56,e5,ee,43,8e,ba,ec,4e,a5,8f,09,dc
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3040\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"PlayMt"=hex:00,00,00,00
+"WaveVol"=hex:00,80,00,80
+"WaveMt"=hex:00,00,00,00
+"GPSPDIFVol"=hex:32,f3,32,f3
+"GPSPDIFMt"=hex:00,00,00,00
+"MIDIVol"=hex:00,80,00,80
+"MIDIMt"=hex:00,00,00,00
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"LineMicVol"=hex:00,80,00,80
+"LineMicMt"=hex:01,00,01,00
+"CDVol"=hex:ff,bf,ff,bf
+"CDMt"=hex:00,00,00,00
+"Chorus"=hex:00,00,00,00
+"DOO"=hex:00,00,00,00
+"SpeakerVol"=hex:3c,ca,3c,ca
+"HeadphoneVol"=hex:00,80,00,80
+"DINVol"=hex:ff,73,ff,73
+"Monitor"=hex:01,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3040\Rec]
+"LineMicVol"=hex:00,80,00,80
+"UHearVol"=hex:00,80,00,80
+"Select"="UHear"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\DeviceSettings\USB\VID_041E&PID_3040\Defaults]
+"Speaker"=hex:d5,45,8e,11,02,5b,4f,4e,9f,10,d1,70,fc,d4,f6,db
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3048\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"PlayMt"=hex:00,00,00,00
+"WaveVol"=hex:00,80,00,80
+"WaveMt"=hex:00,00,00,00
+"GPSPDIFVol"=hex:32,f3,32,f3
+"GPSPDIFMt"=hex:00,00,00,00
+"MIDIVol"=hex:00,80,00,80
+"MIDIMt"=hex:00,00,00,00
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"LineMicVol"=hex:00,80,00,80
+"LineMicMt"=hex:01,00,01,00
+"CDVol"=hex:ff,bf,ff,bf
+"CDMt"=hex:00,00,00,00
+"Chorus"=hex:00,00,00,00
+"DOO"=hex:00,00,00,00
+"SpeakerVol"=hex:3c,ca,3c,ca
+"HeadphoneVol"=hex:ff,07,ff,07
+"DINVol"=hex:ff,73,ff,73
+"Monitor"=hex:01,00,00,00
+"MicBoost"=hex:01,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3048\Rec]
+"LineMicVol"=hex:ff,ff,ff,ff
+"UHearVol"=hex:ff,ff,ff,ff
+"Select"="UHear"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\DeviceSettings\USB\VID_041E&PID_3048\Defaults]
+"Speaker"=hex:d5,45,8e,11,02,5b,4f,4e,9f,10,d1,70,fc,d4,f6,db
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3061\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"PlayMt"=hex:00,00,00,00
+"WaveVol"=hex:00,80,00,80
+"WaveMt"=hex:00,00,00,00
+"GPSPDIFVol"=hex:32,f3,32,f3
+"GPSPDIFMt"=hex:00,00,00,00
+"MIDIVol"=hex:00,80,00,80
+"MIDIMt"=hex:00,00,00,00
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"LineMicVVol"=hex:00,80,00,80
+"LineMicVMt"=hex:00,00,00,00
+"CDVol"=hex:ff,bf,ff,bf
+"CDMt"=hex:00,00,00,00
+"Bass"=hex:00,80,00,80
+"Treble"=hex:00,80,00,80
+"Chorus"=hex:00,00,00,00
+"DOO"=hex:00,00,00,00
+"SpeakerVol"=hex:3c,ca,3c,ca
+"HeadphoneVol"=hex:00,80,00,80
+"DINVol"=hex:ff,73,ff,73
+"VideoInMute"=hex:00,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3061\Rec]
+"LineMicVVol"=hex:00,80,00,80
+"GPSPDIFVol"=hex:00,80,00,80
+"HMixVol"=hex:ff,bf,ff,bf
+"UHearVol"=hex:ff,ff,ff,ff
+"AnalogMixVol"=hex:ff,bf,ff,bf
+"Select"="UHear"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\DeviceSettings\USB\VID_041E&PID_3061\Defaults]
+"Speaker"=hex:2d,a8,9a,0b,56,e5,ee,43,8e,ba,ec,4e,a5,8f,09,dc
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3090\Play]
+"PlayVol"=hex:3c,ca,3c,ca
+"PlayMt"=hex:00,00,00,00
+"WaveVol"=hex:00,80,00,80
+"WaveMt"=hex:00,00,00,00
+"Ext-InVol"=hex:32,f3,32,f3
+"Ext-InMt"=hex:00,00,00,00
+"MIDIVol"=hex:00,80,00,80
+"MIDIMt"=hex:00,00,00,00
+"MIDIReverb"=hex:00,00,00,00
+"MIDI Reverb"=hex:00,00,00,00
+"LineMicVol"=hex:00,80,00,80
+"LineMicMt"=hex:00,00,00,00
+"CDVol"=hex:ff,bf,ff,bf
+"CDMt"=hex:00,00,00,00
+"Bass"=hex:00,80,00,80
+"Treble"=hex:00,80,00,80
+"Chorus"=hex:00,00,00,00
+"DOO"=hex:00,00,00,00
+"SpeakerVol"=hex:3c,ca,3c,ca
+"HeadphoneVol"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\MixerSettings\USB\VID_041E&PID_3090\Rec]
+"LineMicVol"=hex:00,80,00,80
+"Ext-InVol"=hex:00,80,00,80
+"HMixVol"=hex:ff,bf,ff,bf
+"UHearVol"=hex:ff,ff,ff,ff
+"Select"="UHear"
+"MicBoost"=hex:00,80,00,80
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\DriverDefaults\DeviceSettings\USB\VID_041E&PID_3090\Defaults]
+"Speaker"=hex:2d,a8,9a,0b,56,e5,ee,43,8e,ba,ec,4e,a5,8f,09,dc

@@ -1,0 +1,735 @@
+本协议的汉语简体版仅用作翻译目的，若与下一页的英文版有任何出入之
+处，则以英文版为准。
+
+====================================================================
+             Creative 最终用户软件许可证协议
+                       2006 年 5 月 第 2.8 版
+====================================================================
+
+在安装本软件之前，请仔细阅读此文档。安装和使用本软件即表示您同意本协议条款的约定。如果您不同意本协议中的条款，请不要安装或使用本软件。并务必在 15 日之内，将软件、所有文档连同所附带的物品一起退回经销商，您可以获得退款。
+
+这是您与 Creative Technology Ltd. 及其子公司（“Creative”）之间达成的法律协议。此协议阐明了 Creative 提供的密封软盘套件及相关文档资料和附属项目，包括但不限于与这些程序相连的执行程序、驱动程序、程序库和数据文件（统称为“软件”）的条款和细则。
+
+协议
+1.   许可证授权
+     本软件在该协议条款下均属授权使用而非出售。您拥有磁盘或其它媒体
+     ，上面录有原版和修改的软件；但是，在您与 Creative（以及相关的许
+     可证颁发者）之间，Creative 保留对本软件的所有权，并且保留所有未
+     明文授予您的所有权。在第一节下的许可授权带有这样的条件，即您必
+     须遵循并履行本协议下的所有义务。Creative 在以下的情况下授权给
+     您使用本软件的全部或部分：
+     (a) 不以盈利为目的传播本软件；
+     (b) 本软件仅能与 Creative 家族产品一同使用；
+     (c) 不可修改本软件；
+     (d) 所有的版权声明都应包含在本软件内；并且 
+     (e) 许可证领受人/最终用户同意受本协议条款的约束。
+
+2.   在单台计算机上的使用
+     一个用户只能在一台计算机上使用本软件。您可以将机器可读取的部分
+     软件从一台计算机传输至另一台计算机，但是必须符合下列条件：
+     (1) 第一台计算机删除了本软件（包括软件的任何部分或复制软件），
+     (2) 本软件没有任何可能于同一时间在超过一台计算机上使用。
+
+3.   独立使用准则
+     您必须遵循独立使用准则使用本软件，提供的软件及功能只供亲自在装
+     有本软件的计算机上工作的人士存取。本软件及功能不允许通过网络或
+     通讯线路进行远程存取、也不允许传输本软件的全部或任何部分。
+
+4.   版权
+     本软件由 Creative 和/或其许可证颁发者拥有，并受美国版权法和国际
+     协议条款保护。您不得移除任何本软件副本或随附的任何书面材料（若
+     有）的版权通告。
+
+5.   制作一个备份
+     您可以制作一个 (1) 本软件的机器可读取的备份，仅用于支持您在单个
+     计算机上使用本软件，软件的备份必须包括原版软件中所有的版权和其
+     它专权通告。
+
+6.   不允许任何合并或结合
+     不允许将软件的任何部分和任何其它程序合并或整合，除非得到您所处辖
+     区的法律明文许可。如果将本软件的任何部分和任何其它软件合并或结合
+     ，都将继续受到本协议的条款和细则的约束。而且您必须复制包括在原件
+     中合并或结合部分的所有版权和其它专权通告。
+
+7.   网络版本
+     如果您购买了此软件的“network”版本，本协议适用于软件安装在一个
+     单一的“文件服务器”上。软件不可复制到多个系统中。连接于“文件服
+     务器”上的每个“网点”也必须在此特定“网点”已获许可的情况下使用
+     专属于它自己的“网点副件”。
+	
+8.   许可证转让
+     在符合下列条件的情况下，您可以转让本软件的许可证：
+     (1) 您可以转让本软件的所有部分或副本；为此，
+     (2) 您不能保留软件的任何部分或任何副本；同时，
+     (3) 受让人阅读并且同意接受此协议的条款和细则的约束。
+
+9.   使用、复制和修改本软件的限制
+     除非获得本协议的明文许可，或在您获得本软件的法律明文许可范围之内
+     ，否则不允许使用、复制或修改本软件。也不允许将本协议授予您的任何
+     权利转授予他人。本软件仅供您个人使用，不可用于公众表演，也不可用
+     于制作面向公众的录象带。
+	
+10.  反编译、反汇编或反相工程
+     您承认本软件包含商业机密和其它有关 Creative 和其许可证颁发者的专
+     权信息。除非获得本协议的明文许可或在您所处辖区的法律范围之内，否
+     则不允许对软件进行反编译、反汇编或反相工程，或从事任何其它活动以
+     获得正常使用本软件的用户看不见的潜在信息。
+
+     尤其是，您同意不能以任何目的传送本软件，或将本软件的目标码显示于
+     任何计算机屏幕，或制作本软件目标码书面形式的存储器信息转储。如果
+     您需要本软件与其他程序可操作性的有关信息，您也不得反编译或反汇编
+     本软件以获得此类信息。您同意经由下列地址向 Creative 要求此类信息
+     。Creative 在收到这类请求后，将决定您要求获得此类信息是否合法。
+     如果合法，Creative 将在合理的时间内以合理的条件向您提供此类信息
+     。
+	
+     无论发生何种情况，您将向 Creative 通报从反相工程或其它此类活动中
+     获得的任何信息，由此产生的结果视为仅与本软件相关的 Creative 的机
+     密信息。
+
+11.  Gracenote（R）CDDB（R）使用条款
+     本应用软件可能包含 Gracenote, Inc. of Emeryville, California
+     （“Gracenote”）的软件。Gracenote 软件
+     （the “Gracenote CDDB Client”）允许应用程序向在线服务器
+     （“Gracenote CDDB Servers”）进行在线光盘辨别和获取与音乐有关的
+     信息，包括名称、艺术家、曲目和标题信息
+     （“Gracenote Data”）并执行其他功能。您可以通过该应用软件提供的
+     最终用户功能来使用 Gracenote Data。
+ 
+     您同意只是出于自己个人非商业性的用途而使用 Gracenote Data
+     、Gracenote Client、Gracenote Servers。您同意不向第三方分配、复
+     制、转发或传输 Gracenote Client 或任何 Gracenote Data（除去与音
+     乐文件有关的标签）。除了此处明文规定许可之外，您同意不使用或利用
+     Gracenote Data、Gracenote Client、Gracenote Servers。
+
+     您同意如果您违反这些限制，您的 Gracenote Data、Gracenote Client
+     、Gracenote Servers 的非排他性使用权即中止。您的使用权一旦终止
+     ，您同意停止使用任何 Gracenote Data、Gracenote Client
+     、Gracenote Servers。Gracenote 保留 Gracenote Data、
+     Gracenote Client、Gracenote Servers 的一切权利，包括所有权利。无
+     论在任何情况下 Gracenote 都不会为您提供的信息，包括音乐文件信息
+     的费用负责。您同意 Gracenote 在本协议下以其自身名义直接向您施行
+     其权利。
+
+     Gracenote 服务针对计数目的采用独特的曲目识别器。随即分配的数字
+     识别器的用途是让 Gracenote 服务去统计质询数目，而无需了解您是谁
+     。详情请访问 www.gracenote.com 获取相关 Gracenote 的隐私政策。
+
+     Gracenote Client 和 Gracenote Data 的每一个项目以其原有面目授权
+     给您。Gracenote 对来自 Gracenote Servers 的 Gracenote Data 的精
+     确性不承担任何明示和暗示的责任或保证。Gracenote 保留 Gracenote 
+     认为理由足够而删除 Gracenote Servers 的资料或变更资料类别权利。
+     Gracenote 不担保 Gracenote Client 或 Gracenote Servers 不出任何
+     差错，也不担保 Gracenote Client 或 Gracenote CDDB Servers 不会中
+     断。Gracenote 不承担向您提供将来 Gracenote 可能提供的任何新的增
+     强功能或额外资料类型或类别的义务。
+     Gracenote 声明不提供任何明示和暗示的保证，包括但不限于特别目的
+     、名目和非侵犯性的适销性和适当性的暗示担保。Gracenote 对您由于
+     使用 Gracenote Client 或 Gracenote Servers 而引起的后果概不负责
+     。在任何情况下，Gracenote 对由此而引起的任何直接或间接损失或由此
+     而引起的利润或收入损失概不负责。
+
+12.  许可终止
+     本许可证协议在终止前有效。您可以随时将软件（包括任何部分或副本）
+     退回至 Creative 以终止此协议。如果您违背了本协议的任何条款和细则
+     ，本协议将自动终止。您应在出现上述情况终止协议时，立即将本软件
+     （包括任何部分或所有副本）退回至 Creative。在本协议终止时
+     ，Creative 保留通过法律途径维护自身权益的权利。本协议规定的保护
+     Creative 的专权条款在协议终止之后继续有效。
+
+13.  无保修
+     Creative 不担保本软件将满足您的需要，也不担保本软件在操作中不出
+     现中断或差错，或不受不良代码感染。“不良代码”在本段意指任何程序
+     码，设计用来拼凑其他计算机程序或计算机数据、消费计算机资源，修改
+     、毁坏记录，或传输数据，或以侵害计算机、计算机系统或计算机网络的
+     其他形式，包括病毒、特洛伊马、漏失程序、蠕虫、逻辑炸弹，等等。
+
+     Creative 不对此软件提供任何明示和默许的担保，包括但不限于特别目
+     的，名目或不侵犯的销售合适性和适当性的默许担保。Creative 对本软
+     件不承担任何更新、升级或技术支持的义务。
+
+     一些国家或州（省）不允许排斥默许担保，所以上述限制可能对您不适用
+     。如果本软件由第三方而不是由 Creative 定制、重新包装或作出任何形
+     式的改变，Creative 将不承认任何保修条款。
+ 
+14.  您的责任
+     如果您在违反了本协议的情况下传播此软件，您必须保障 Creative，捍
+     卫它不受任何由於违反协议而使用或传播此软件而引起或有关联的索偿或
+     诉讼的损害，包括律师费以及由此而引起的任何费用。
+
+15.  损害免责声明： 有限责任承诺
+     无论发生何种情况，Creative 对任何间接、偶然、特别或必然的损失
+     ，或任何由于 Creative 的疏忽造成的人身伤害（包括死亡），或者由于
+     本软件或本协议的使用所引起的任何商业利益损失、储蓄损失、收入损失
+     或数据损失概不负责，即使 Creative 或其许可证颁发者收到过损失可能
+     发生的通知。不管收到用户或其它任何人的何种形式的索赔请求
+     ，Creative 对任何超出本软件的价格以外的损失概不负责。
+
+     再者，Creative 对任何由 Creative 或第三方技术支持人员提供的信息
+     精确性概不负责，对由此而引起的任何直接或间接损失、或您根据此类技
+     术支持而采取的任何行动或遗漏概不负责。
+
+     您必须对为获得您意想的结果选择本软件以及本软件的下载、使用和从软
+     件获得的结果负完全责任。由您承担本软件的质量和性能的全部风险。如
+     果软件证明确有缺点，也由您（而不是 Creative，或其经销商或代理商
+     ）承担所需的全部修复服务费用。
+
+     一些国家或州（省）不允许限制或排除对突发的或连带的损失的责任，所
+     以上述限制或排斥可能不适用于您。
+
+16.  产品退回
+     如果不得不将软件退回 Creative 或者 Creative 授权经销商或代理商
+     ，您必须预付运输费，并且为软件投保或承担运输中丢失或损坏的风险。
+
+17.  美国政府限制权利
+     所有软件与相关文件均随限制权利提供。美国政府使用、复制或公开软件
+     应符合技术数据和计算机软件条款权利部分的 (b)(3)(ii)的规定，即条
+     款：252.227-7013。如果您在美国以外的国家或地区转让使用或使用本
+     软件，您必须遵从自己国家的地方法规、美国出口管制法和本协议的英语
+     版本。
+
+18.  承包商/制造商
+     软件承包商/制造商：
+           Creative Technology Ltd
+           31 International Business Park
+           Creative Resource
+           新加坡 609921
+
+19.  通告
+     本协议对您、您的雇员、您的雇主、承包商和代理商、任何继任者以及受
+     托人均具约束力。没有依据美国法律或其它相应的规定，任何软件或任何
+     相关信息均不允许输出。本协议遵从加利福尼亚州法律（除联邦法管辖的
+     版权和联邦注册商标之外）。本协议完全是我们之间的协议，并且您同意
+     Creative 对于任何不确实陈述或代表，作这些陈述或代表的代理商或任
+     何别的人（无论是出於无心或疏忽），导致您签署本协议不负任何责任
+     ，除非这些不确实陈述或代表的目的是为了欺诈。本协议取代任何其它谅
+     解或协议，包括但不仅局限于本软件广告。如果任何国家或政府机构认为
+     本协议中的某个条款无效或不能执行，相应的条款将作出必要的修改使之
+     有效、可以执行。本协议的其它条款则不受任何影响。
+
+     有关本协议的任何疑问，请按上述地址与 Creative 联络。如果您对有关
+     产品或技术应用存有疑问，请与距离最近的 Creative 技术支持中心联络
+     。
+
+     本产品可能附带能够播放受版权保护的 DVD-Audio 光盘的软件。但是如
+     果内容保护系统已经损坏的话，软件的此项功能将失效。在此种情况下
+     ，唯一的补救措施是从 Creative 的网站下载产品更新，如果您无法连接
+     到 Internet，Creative 也将有偿为您更换软件。
+
+MICROSOFT 软件许可证补充协议
+===========================================================
+重要提示：使用本补充协议中提供的 Microsoft 软件文件（“Microsoft 软件”）即表示您同意下列条款的约定。如果您不同意下列条款的约定，您不能使用 Microsoft 软件。
+
+提供的 Microsoft 软件仅用于替代以上阐明并根据许可证协议原先提供的 Microsoft 软件产品（“原产品”）副本中的相应文件。一经安装，Microsoft 软件文件便成为原产品的一部分，受到原产品许可证协议中的条款和条件的相同约定和保修。如果您没有有效的原产品使用许可证，您就不得使用 Microsoft 软件。禁止将 Microsoft 软件用作其他用途。
+
+从 Creative 立场看，本协议中没有任何内容可解释为提倡或准许侵犯适用于您的辖区的本地和/或国际法。
+
+MICROSOFT WMFSDK9 系列协议的 DRM 补充协议
+==============================================================
+内容供应商使用用于 Windows Media 的 Microsoft 数字权限管理技术（“WM-DRM”）来保护其内容的完整性（“安全性内容”），以便保护其在这类内容里的包括版权在内的知识产权不会遭到侵害。本软件的部分内容以及第三方应用程序（“WM-DRM Software”）使用 WM-DRM 传输或播放安全性内容。如果 WM-DRM 软件的安全性能降低，安全性内容拥有者（“Secure Content Owners”）可以要求 Microsoft 撤销 WM-DRM 的复制、显示、传输和/或播放安全性内容的软件权限。撤销不改变播放未受保护内容的 WM-DRM 软件能力。一旦您从 Internet 上下载安全性内容执照，一份撤销的 WM-DRM 软件列表将发送至您的电脑。Microsoft 也许会代表安全性内容拥有者，下载此执照时也一并下载撤销列表至您的电脑上。安全性内容拥有者也可能要求您升级一些随此软件一起发布的 WM-DRM（“WM-DRM Upgrades”）组件后，才能存取他们的内容。当您试图播放这类内容时，Microsoft 制作的 WM-DRM 软件将通知您需要 WM-DRM 升级版，然后征求了您的同意再下载 WM-DRM 升级版。第三方使用 WM-DRM 软件的情况也是如此。如果您拒绝升级，您将不能存取需要 WM-DRM 升级版的内容，然而您仍然能够存取未受保护的内容以及那些不需要升级版的安全性内容。
+
+Creative 用户的版权信息
+=========================================================
+特定的 Creative 产品是用于帮助您对那些为版权所有者允许或适用法律所豁免的材料进行复制。除非您拥有版权或类似的授权，否则，您可能由于违反版权法而受到罚款或被要求其他赔偿。如果您对您的权力还不清楚，请与您的法律顾问联系。使用 Creative 产品时您有责任确保不违反适用的版权法，因此复制某些材料可能需要事先经过版权持有者的许可。对于任何非法使用 Creative 产品的情况，Creative 不承担任何责任，并且 Creative 在任何情况下对储存于压缩过的音频文件中的数据来源不负有任何责任。您认可并且同意在实时广播（陆地、卫星、有线或其他媒体）或通过 Internet 及其他网络，如 Intranet（但是不限定于其中），在付费音乐或有偿应用程序中，使用或输出此软件中包含的 MP3 Codecs 是未经许可和/或未经授权的。
+
+适用于欧盟的特殊条款
+======================================================
+如果您在欧盟（EU）获得该软件，还需遵循下列规定。如果本软件先前制订许可证协议与下列规定不符，请以下列规定为准。
+
+反编译
+您同意不能以任何目的传送本软件，或将本软件的目标码显示于任何计算机屏幕，或制作本软件目标码书面形式的存储器信息转储。如果您需要本软件与其他程序可操作性的有关信息，请向前面列出的地址的 Creative 部门提出请求，不得反编译或反汇编本软件以获得此类信息。您同意经由下列地址向 Creative 要求此类信息。Creative 在收到这类请求后，将决定您要求获得此类信息是否合法。如果合法，Creative 将在合理的时间内以合理的条件向您提供此类信息。
+
+有限责任
+除非在本协议中已明确声明，或是属于“法定权利”范畴，否则 Creative 不对此软件提供任何明示和默许的担保，包括但不限于特别目的、名目或不侵犯的销售合适性、质量和特定目的适当性的默许担保。
+
+损坏和补偿限制
+本软件许可证中的损坏和补偿限制并不适用于因 Creative 的疏忽造成的和与“法定权利”一节中规定的条款有关的人身伤害（包括死亡）。
+
+法定权利
+爱尔兰法律规定，在销售商品和提供服务时，其协议中可暗示了某些条款和责任。这些条款和责任可免于计列，根据爱尔兰法律规定及本业务的性质，在本文情况下亦可免责。相对的，不属于依法免责的条款和责任应予遵守。本协议对您按 1893 年爱尔兰货物销售法案（修订本）的 12、13、14 或 15 节规定所应享有的权利予以保证。
+
+通告
+本协议受爱尔兰共和国法律约束。
+在欧盟获得的本软件应使用本协议的当地语言版本。本协议完全是我们之间的协议，并且您同意 Creative 对於任何不确实陈述或代表，作这些陈述或代表的代理商或任何别的人（无论是出於无心或疏忽），导致您签署本协议不负任何责任，除非这些不确实陈述或代表的目的是为了欺诈。
+
+====================================================================
+             CREATIVE END-USER SOFTWARE LICENSE AGREEMENT
+                       Version 2.8, May 2006
+====================================================================
+
+PLEASE READ THIS DOCUMENT CAREFULLY BEFORE INSTALLING THE 
+SOFTWARE. BY INSTALLING AND USING THE SOFTWARE, YOU AGREE TO BE 
+BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE 
+TERMS OF THIS AGREEMENT, DO NOT INSTALL OR USE THE SOFTWARE. 
+PROMPTLY RETURN, WITHIN 15 DAYS, THE SOFTWARE, ALL RELATED 
+DOCUMENTATION AND ACCOMPANYING ITEMS TO THE PLACE OF ACQUISITION 
+FOR A REFUND.
+
+This is a legal agreement between you and Creative Technology Ltd. 
+and its subsidiaries ("Creative"). This Agreement states the terms 
+and conditions upon which Creative offers to license the software 
+sealed in the disk package together with all related documentation 
+and accompanying items including, but not limited to, the 
+executable programs, drivers, libraries and data files associated 
+with such programs (collectively, the "Software").
+
+LICENSE
+1.   Grant of License
+     The Software is licensed, not sold, to you for use only 
+     under the terms of this Agreement. You own the disk or other 
+     media on which the Software is originally or subsequently 
+     recorded or fixed; but,as between you and Creative (and, to 
+     the extent applicable, its licensors), Creative retains all 
+     title to and ownership of the Software and reserves all 
+     rights not expressly granted to you. The license under this 
+     Section 1 is conditioned upon your compliance with all of 
+     your obligations under this Agreement. Creative grants to you 
+     the right to use all or a portion of this Software provided 
+     that      
+     (a)  the Software is not distributed for profit; 
+     (b)  the Software is used only in conjunction with Creative's 
+           family of products; 
+     (c)  the Software may NOT be modified;
+     (d)  all copyright notices are maintained on the Software; and 
+     (e)  the licensee/end-user agrees to be bound by the terms of 
+            this agreement. 
+
+2.   For Use on a Single Computer
+     The Software may be used only on a single computer by a 
+     single user at any time. You may transfer the machine-readable 
+     portion of the Software from one computer to another computer, 
+     provided that 
+     (a)  the Software (including any portion or copy thereof) is 
+           erased from the first computer and 
+     (b)  there is no possibility that the Software will be used on 
+           more than one computer at a time.
+
+3.   Stand-Alone Basis
+     You may use the Software only on a stand-alone basis, such 
+     that the Software and the functions it provides are accessible 
+     only to persons who are physically present at the location of 
+     the computer on which the Software is loaded. You may not allow 
+     the Software or its functions to be accessed remotely, or 
+     transmit all or any portion of the Software through any network 
+     or communication line.
+
+4.   Copyright
+     The Software is owned by Creative and/or its licensors and is 
+     protected by United States copyright laws and international 
+     treaty provisions. You may not remove the copyright notice 
+     from any copy of the Software or any copy of the written 
+     materials, if any, accompanying the Software.
+
+5.   One Archival Copy
+     You may make one (1) archival copy of the machine-readable 
+     portion of the Software for backup purposes only in support 
+     of your use of the Software on a single computer, provided 
+     that you reproduce on the copy all copyright and other 
+     proprietary rights notices included on the originals of the 
+     Software.
+
+6.   No Merger or Integration
+     You may not merge any portion of the Software into, or 
+     integrate any portion of the Software with, any other 
+     program, except to the extent expressly permitted by the 
+     laws of the jurisdiction where you are located. Any portion 
+     of the Software merged into or integrated with another 
+     program, if any, will continue to be subject to the terms 
+     and conditions of this Agreement, and you must reproduce on 
+     the merged or integrated portion all copyright and other 
+     proprietary rights notices included in the originals of 
+     the Software.
+
+7.   Network Version
+     If you have purchased a "network" version of the Software, 
+     this Agreement applies to the installation of the Software 
+     on a single "file server". It may not be copied onto 
+     multiple systems. Each "node" connected to the "file server" 
+     must also have its own license of a "node copy" of the 
+     Software, which becomes a license only for that specific 
+     "node".
+	
+8.   Transfer of License
+     You may transfer your license of the Software, provided that 
+     (a)  you transfer all portions of the Software or copies 
+           thereof, 
+     (b)  you do not retain any portion of the Software or any 
+           copy thereof, and 
+     (c)  the transferee reads and agrees to be bound by the 
+           terms and conditions of this Agreement.
+
+9.   Limitations on Using, Copying, and Modifying the Software
+     Except to the extent expressly permitted by this Agreement 
+     or by the laws of the jurisdiction where you acquired the 
+     Software, you may not use, copy or modify the Software. Nor 
+     may you sub-license any of your rights under this Agreement. 
+     You may use the software for your personal use only, and not 
+     for public performance or for the creation of publicly 
+     displayed videotapes.
+	
+10.  Decompiling, Disassembling, or Reverse Engineering
+     You acknowledge that the Software contains trade secrets and 
+     other proprietary information of Creative and its licensors. 
+     Except to the extent expressly permitted by this Agreement 
+     or by the laws of the jurisdiction where you are located, 
+     you may not decompile, disassemble or otherwise reverse 
+     engineer the Software, or engage in any other activities to 
+     obtain underlying information that is not visible to the 
+     user in connection with normal use of the Software.
+
+     In particular, you agree not for any purpose to transmit the 
+     Software or display the Software's object code on any 
+     computer screen or to make any hardcopy memory dumps of the 
+     Software's object code. If you believe you require 
+     information related to the interoperability of the Software 
+     with other programs, you shall not decompile or disassemble 
+     the Software to obtain such information, and you agree to 
+     request such information from Creative at the address listed 
+     below. Upon receiving such a request, Creative shall 
+     determine whether you require such information for a 
+     legitimate purpose and, if so, Creative will provide such 
+     information to you within a reasonable time and on 
+     reasonable conditions.
+	
+     In any event, you will notify Creative of any information 
+     derived from reverse engineering or such other activities, 
+     and the results thereof will constitute the confidential 
+     information of Creative that may be used only in connection 
+     with the Software.
+
+11.  Gracenote(R) CDDB(R) Terms of Use 
+     This application may contain software from Gracenote, Inc. of 
+     Emeryville, California ("Gracenote"). The software from 
+     Gracenote (the "Gracenote Client") enables this application 
+     to do online disc and music file identification and obtain 
+     music-related information, including name, artist, track, 
+     and title information ("Gracenote Data") from online 
+     servers ("Gracenote Servers"), and to perform other 
+     functions. You may use Gracenote Data only by means of 
+     the intended End User functions of this application software. 
+ 
+     You agree that you will use Gracenote Data, the Gracenote 
+     Client, and Gracenote Servers for your own personal 
+     non-commercial use only. You agree not to assign, copy, 
+     transfer or transmit the Gracenote Client or any Gracenote 
+     Data (except in a Tag associated with a music file) to any 
+     third party. YOU AGREE NOT TO USE OR EXPLOIT GRACENOTE 
+     DATA, THE GRACENOTE CLIENT, OR GRACENOTE SERVERS, EXCEPT 
+     AS EXPRESSLY PERMITTED HEREIN. 
+
+     You agree that your non-exclusive license to use the 
+     Gracenote Data, the Gracenote Client, and Gracenote 
+     Servers will terminate if you violate these restrictions. 
+     If your license terminates, you agree to cease any and all 
+     use of the Gracenote Data, the Gracenote Client, and 
+     Gracenote Servers. Gracenote reserves all rights in 
+     Gracenote Data, the Gracenote Client, and the Gracenote 
+     Servers, including all ownership rights. Under no 
+     circumstances will Gracenote become liable for any payment 
+     to you for any information that you provide, including 
+     music file information. You agree that Gracenote may 
+     enforce its rights under this agreement against you 
+     directly in its own name. 
+
+     The Gracenote Service uses a unique identifier to track 
+     queries for statistical purposes. The purpose of a randomly 
+     assigned numeric identifier is to allow the Gracenote 
+     service to count queries without knowing anything about 
+     who you are. For more information, see the web page at 
+     www.gracenote.com for the Gracenote Privacy Policy for 
+     the relevant Gracenote Service. 
+
+     The Gracenote Client and each item of Gracenote Data are 
+     licensed to you "AS IS." Gracenote makes no representations 
+     or warranties, express or implied, regarding the accuracy 
+     of any Gracenote Data from the Gracenote Servers. Gracenote 
+     reserves the right to delete data from the Gracenote 
+     Servers or to change data categories for any cause that 
+     Gracenote deems sufficient. No warranty is made that the 
+     Gracenote Client or Gracenote Servers are error-free or 
+     that the functioning of the Gracenote Client or Gracenote 
+     Servers will be uninterrupted. Gracenote is not obligated 
+     to provide you with any enhanced or additional data types 
+     that Gracenote may choose to provide in the future and is 
+     free to discontinue its online services at any time. 
+     GRACENOTE DISCLAIMS ALL WARRANTIES EXPRESS OR IMPLIED, 
+     INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF 
+     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, 
+     AND NON-INFRINGEMENT. Gracenote does not warrant the 
+     results that will be obtained by your use of the Gracenote 
+     Client or any Gracenote Server. IN NO CASE WILL GRACENOTE 
+     BE LIABLE FOR ANY CONSEQUENTIAL OR INCIDENTAL DAMAGES OR
+     FOR ANY LOST PROFITS OR LOST REVENUES. 
+
+12.  TERMINATION
+     The license granted to you is effective until terminated. 
+     You may terminate it at any time by returning the Software 
+     (including any portions or copies thereof) to Creative. The 
+     license will also terminate automatically without any notice 
+     from Creative if you fail to comply with any term or 
+     condition of this Agreement. You agree upon such termination 
+     to return the Software (including any portions or copies 
+     thereof) to Creative. Upon termination, Creative may also 
+     enforce any rights provided by law. The provisions of this 
+     Agreement that protect the proprietary rights of Creative 
+     will continue in force after termination.
+
+13.  NO WARRANTY
+     Creative does not warrant that the functions contained in 
+     the Software will meet your requirements or that the 
+     operation of the Software will be uninterrupted, error-free 
+     or free from malicious code. For the purposes of this 
+     paragraph, "malicious code" means any program code designed 
+     to contaminate other computer programs or computer data, 
+     consume computer resources, modify, destroy, record, or 
+     transmit data, or in some other fashion usurp the normal 
+     operation of the computer, computer system, or computer 
+     network, including viruses, Trojan horses, droppers, worms, 
+     logic bombs, and the like.
+
+     THE SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, 
+     EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, 
+     ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR 
+     A PARTICULAR PURPOSE, TITLE OR NONINFRINGEMENT. CREATIVE IS 
+     NOT OBLIGATED TO PROVIDE ANY UPDATES, UPGRADES OR
+     TECHNICAL SUPPORT FOR THE SOFTWARE.
+     Some countries/states do not allow the exclusion of implied 
+     warranties, so the above exclusion may not apply to you. 
+     Creative disclaims all warranties of any kind if the 
+     Software was customized, repackaged or altered in any way 
+     by any third party other than Creative.
+ 
+14.  INDEMNIFICATION BY YOU
+     If you distribute the Software in violation of this 
+     Agreement, you hereby indemnify, hold harmless and defend 
+     Creative from and against any and all claims or lawsuits, 
+     including attorney's fees and costs that arise, result from 
+     or are connected with the use or distribution of the 
+     Software in violation of this Agreement.
+
+15.  DISCLAIMER OF DAMAGES: LIMITATION OF LIABILITY
+     IN NO EVENT WILL CREATIVE OR ITS LICENSORS BE LIABLE FOR 
+     ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, 
+     OR FOR ANY BODILY INJURY (INCLUDING DEATH) TO ANY PERSONS
+     CAUSED BY CREATIVE'S NEGLIGENCE, OR FOR ANY LOST PROFITS, 
+     LOST SAVINGS, LOSS OF USE, LOST REVENUES OR LOST DATA 
+     ARISING FROM OR RELATING TO THE SOFTWARE OR THIS AGREEMENT,
+     EVEN IF CREATIVE OR ITS LICENSORS HAVE BEEN ADVISED OF THE
+     POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL CREATIVE'S
+     LIABILITY OR DAMAGES TO YOU OR ANY OTHER PERSON EVER EXCEED 
+     THE AMOUNT PAID BY YOU TO USE THE SOFTWARE, REGARDLESS OF
+     THE FORM OF THE CLAIM.
+
+     Further, Creative shall not be liable for the accuracy of 
+     any information provided by Creative or third party 
+     technical support personnel, or any damages caused, either 
+     directly or indirectly, by acts taken or omissions made by 
+     you as a result of such technical support.
+     You assume full responsibility for the selection of the 
+     Software to achieve your intended results, and for the 
+     installation, use and results obtained from the Software. 
+     You also assume the entire risk as it applies to the quality 
+     and performance of the Software. Should the Software prove 
+     defective, you (and not Creative, or its distributors or 
+     dealers) assume the entire cost of all necessary servicing, 
+     repair or correction.
+
+     Some countries/states do not allow the limitation or 
+     exclusion of liability for incidental or consequential 
+     damages, so the above limitation or exclusion may not 
+     apply to you.
+
+16.  PRODUCT RETURNS
+     IF YOU MUST SHIP THE SOFTWARE TO CREATIVE OR AN AUTHORIZED 
+     Creative DISTRIBUTOR OR DEALER, YOU MUST PREPAY SHIPPING 
+     AND EITHER INSURE THE SOFTWARE OR ASSUME ALL RISK OF LOSS 
+     OR DAMAGE IN TRANSIT.
+
+17.  U.S. GOVERNMENT RESTRICTED RIGHTS
+     All Software and related documentation are provided with 
+     restricted rights. Use, duplication or disclosure by the U.S.
+     Government is subject to restrictions as set forth in 
+     subdivision (b)(3)(ii) of the Rights in Technical Data and 
+     Computer Software Clause at 252.227-7013. If you are 
+     sub-licensing or using the Software outside of the United 
+     States, you will comply with the applicable local laws of 
+     your country, U.S. export control law, and the English 
+     version of this Agreement.
+
+18.  CONTRACTOR/MANUFACTURER
+     The Contractor/Manufacturer for the Software is:
+           Creative Technology Ltd
+           31, International Business Park
+           Creative Resource
+           Singapore 609921
+
+19.  GENERAL
+     This Agreement is binding on you as well as your employees, 
+     employers, contractors and agents, and on any successors 
+     and assignees. Neither the Software nor any information 
+     derived therefrom may be exported except in accordance with 
+     the laws of the U.S. or other applicable provisions. This 
+     Agreement is governed by the laws of the State of 
+     California (except to the extent federal law governs 
+     copyrights and federally registered trademarks). This 
+     Agreement is the entire agreement between us and you agree 
+     that Creative will not have any liability for untrue 
+     statement or representation made by it, its agents or 
+     anyone else (whether innocently or negligently) upon which 
+     you relied upon entering this Agreement, unless such untrue 
+     statement or representation was made fraudulently. This 
+     Agreement supersedes any other understandings or agreements, 
+     including, but not limited to, advertising, with respect 
+     to the Software. If any provision of this Agreement is 
+     deemed invalid or unenforceable by any country or 
+     government agency having jurisdiction, that particular 
+     provision will be deemed modified to the extent necessary 
+     to make the provision valid and enforceable, and the 
+     remaining provisions will remain in full force and effect.
+
+     For questions concerning this Agreement, please contact 
+     Creative at the address stated above. For questions on 
+     product or technical matters, contact the Creative 
+     technical support center nearest you.
+
+     This package may include software with DVD-Audio 
+     functionality for you to play content-protected DVD-Audio 
+     discs. The functionality of this Software may be lost if 
+     the content protection system is compromised. In this event, 
+     your sole remedy to restore such functionality is to 
+     download a product update from Creative's website, or if 
+     you do not have internet access, Creative will use 
+     commercially reasonable means to provide replacement 
+     software.
+
+ADDENDUM TO THE MICROSOFT SOFTWARE LICENSE AGREEMENT
+===========================================================
+IMPORTANT: By using the Microsoft software files (the "Microsoft 
+Software") provided with this Addendum, you are agreeing to be 
+bound by the following terms. If you do not agree to be bound by 
+these terms, you may not use the Microsoft Software.
+
+The Microsoft Software is provided for the sole purpose of 
+replacing the corresponding files provided with a previously 
+licensed copy of the Microsoft software product ("ORIGINAL 
+PRODUCT"). Upon installation, the Microsoft Software files become 
+part of the ORIGINAL PRODUCT and are subject to the same warranty 
+and license terms and conditions as the ORIGINAL PRODUCT. If you do 
+not have a valid license to use the ORIGINAL PRODUCT, you may not 
+use the Microsoft Software. Any other use of the Microsoft Software 
+is prohibited.
+
+Nothing in this Agreement shall be construed on the part of 
+Creative as advocating or authorizing the infringement of local 
+and/or international laws applicable to your jurisdiction.
+
+DRM ADDENDUM TO THE MICROSOFT WMFSDK9 SERIES AGREEMENT
+==============================================================
+Content providers are using the Microsoft digital rights management 
+technology for Windows Media ("WM-DRM") to protect the integrity of 
+their content ("Secure Content") so that their intellectual property, 
+including copyright, in such content is not misappropriated. 
+Portions of this software and other third party applications 
+("WM-DRM Software") use WM-DRM to transfer or play Secure Content. 
+If the WM-DRM Software's security has been compromised, owners of 
+Secure Content ("Secure Content Owners") may request that Microsoft 
+revoke the WM-DRM Software's right to copy, display, transfer, 
+and/or play Secure Content.  Revocation does not alter the WM-DRM 
+Software's ability to play unprotected content. A list of revoked 
+WM-DRM Software is sent to your computer whenever you download a 
+license for Secure Content from the Internet. Microsoft may, in 
+conjunction with such license, also download revocation lists onto 
+your computer on behalf of Secure Content Owners. Secure Content 
+Owners may also require you to upgrade some of the WM-DRM components 
+distributed with this software ("WM-DRM Upgrades") before accessing 
+their content. When you attempt to play such content, WM-DRM 
+Software built by Microsoft will notify you that a WM-DRM Upgrade 
+is required and then ask for your consent before the WM-DRM Upgrade 
+is downloaded. WM-DRM Software used by third parties may do the same. 
+If you decline the upgrade, you will not be able to access content 
+that requires the WM-DRM Upgrade; however, you will still be able 
+to access unprotected content and Secure Content that does not 
+require the upgrade.
+
+COPYRIGHT INFORMATION FOR USERS OF CREATIVE PRODUCTS 
+=========================================================
+Certain Creative products are designed to assist you in reproducing 
+material for which you own the copyright or are authorized to copy 
+by the copyright owner or by exemption in applicable law. Unless 
+you own the copyright or have such authorization, you may be 
+violating copyright law and may be subject to payment of damages 
+and other remedies. If you are uncertain about your rights, you 
+should contact your legal advisor. It is your responsibility when 
+using a Creative product to ensure there is no infringement of 
+applicable laws on copyright whereby the copying of certain 
+materials may require the prior consent of the copyright owners. 
+Creative disclaims any liability with regard to any illegal use of 
+the Creative product and Creative shall in no event be liable with 
+regard to the origin of any data stored in a compressed audio file. 
+You acknowledge and agree that the exportation or use of MP3 Codecs
+that may be included with your software, in real-time broadcasting 
+(terrestrial, satellite, cable or other media) or broadcasting via 
+Internet or other networks, such as but not limited to intranets 
+etc., in pay-audio or pay-on-demand applications, is not authorized 
+and/or licensed.
+
+SPECIAL PROVISIONS APPLICABLE TO THE EUROPEAN UNION
+======================================================
+If you acquired the Software in the European Union (EU), the 
+following provisions also apply to you. If there is any 
+inconsistency between the terms of the Software License Agreement 
+set out earlier and in the following provisions, the following 
+provisions shall take precedence.
+
+Decompilation
+You agree not for any purpose to transmit the Software or display 
+the Software's object code on any computer screen or to make any 
+hard copy memory dumps of the Software's object code. If you 
+believe you require information related to the interopretability 
+of the Software with other programs, you shall not decompile or 
+disassemble the Software to obtain such information, and you agree 
+to request such information from Creative at the address listed 
+earlier. Upon receiving such a request, Creative shall determine 
+whether you require such information for a legitimate purpose and, 
+if so, Creative will provide such information to you within a 
+reasonable time and on reasonable conditions.
+
+Limited Warranty
+EXCEPT AS STATED EARLIER IN THIS AGREEMENT, AND AS PROVIDED 
+UNDER THE HEADING "STATUTORY RIGHTS", THE SOFTWARE IS 
+PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS 
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED 
+WARRANTIES OR CONDITIONS OF MERCHANTABILITY, QUALITY OR 
+FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NONINFRINGEMENT.
+
+Limitation of Remedy and Damages
+THE LIMITATIONS OF REMEDIES AND DAMAGES IN THE SOFTWARE LICENSE 
+AGREEMENT SHALL NOT APPLY TO PERSONAL INJURY (INCLUDING DEATH) 
+TO ANY PERSON CAUSED BY CREATIVE'S NEGLIGENCE AND ARE SUBJECT 
+TO THE PROVISION SET OUT UNDER THE HEADING "STATUTORY RIGHTS".
+
+Statutory rights
+Irish law provides that certain conditions and warranties may be 
+implied in contracts for the sale of goods and in contracts for the 
+supply of services. Such conditions and warranties are hereby 
+excluded, to the extent such exclusion, in the context of this 
+transaction, is lawful under Irish law. Conversely, such conditions 
+and warranties, insofar as they may not be lawfully excluded, shall 
+apply. Accordingly nothing in this Agreement shall prejudice any 
+rights that you may enjoy by virtue of Sections 12, 13, 14 or 15 
+of the Irish Sale of Goods Act 1893 (as amended).
+
+General
+This Agreement is governed by the laws of the Republic of Ireland. 
+The local language version of this agreement shall apply to 
+Software acquired in the EU. This Agreement is the entire agreement 
+between us, and you agree that Creative will not have any liability 
+for any untrue statement or representation made by it, its agents 
+or anyone else (whether innocently or negligently) upon which you 
+relied upon entering this Agreement, unless such untrue statement 
+or representation was made fraudulently.
+
+====================================================================
+                   协议结束
+====================================================================
+

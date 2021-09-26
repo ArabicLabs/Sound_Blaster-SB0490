@@ -1,0 +1,548 @@
+; Creative KS100/50/150 INF file
+;
+; Language : English
+;
+; Date     : 16 MAY 2005
+; Revision : 1.00.004
+;
+; Copyright 2003-2005, Creative Technology Ltd.
+
+[Version]
+Signature="$CHICAGO$"
+Class=MEDIA
+ClassGUID={4d36e96c-e325-11ce-bfc1-08002be10318} 
+CatalogFile=KSCombo.cat
+provider=%MfgName%
+DriverVer=05/16/2005
+
+[SourceDisksNames]
+101=%DriverDisk1%,,
+
+[SourceDisksFiles]
+sbusb.sys     = 101
+ctoss2k.sys   = 101
+ctsfm2k.sys   = 101
+sbusbdll.dll  = 101
+a3d.dll       = 101
+sfman32.dll   = 101
+sfms32.dll    = 101
+ct2mgm.sf2    = 101
+
+[Manufacturer]
+%MfgName%=CREATIVE
+
+;; Mechanism for excluding drivers from the "Add New Hardware" list.
+[ControlFlags]
+;; *EXCLUDE is a made up ID to prevent rank 1 drivers from showing in list.
+ExcludeFromSelect = *
+
+[CREATIVE]
+;Creative
+%USB\VID_041E&PID_3010&MI_00.DeviceDesc%=SB_KS100_Device, USB\VID_041E&PID_3010&MI_00
+%USB\VID_041E&PID_3015&MI_00.DeviceDesc%=SB_KS50_Device, USB\VID_041E&PID_3015&MI_00
+%USB\VID_041E&PID_3040&MI_00.DeviceDesc%=SB_KS150_Device, USB\VID_041E&PID_3040&MI_00
+
+
+;; KS50 specific *****************************************************************************
+[SB_KS50.Interface.Wave]
+AddReg=SB_KS50.Interface.Wave.AddReg
+
+[SB_KS50.Interface.Wave.AddReg]
+HKR,,FriendlyName,,%SB_KS50.Wave.szPname%
+HKR,,CLSID,,%Proxy.CLSID%
+
+[SB_KS50.Interface.Topology]
+AddReg=SB_KS50.Interface.Topo.AddReg
+;; warning!! must be "Topo" because "Topology" is too long
+
+[SB_KS50.Interface.Topo.AddReg]
+HKR,,FriendlyName,,%SB_KS50.Topology.szPname%
+
+[SB_KS50.Interface.Synth]
+AddReg=SB_KS50.Interface.Synth.AddReg
+;; warning!! must be "Synth" because "CTSynth" is too long
+
+[SB_KS50.Interface.Synth.AddReg]
+HKR,,FriendlyName,,%SB_KS50.CTSynth.szPname%
+HKR,,CLSID,,%Proxy.CLSID%
+
+[SB_KS50.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SB_KS50.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv, Description,,%SB_KS50.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SB_KS50.DeviceDesc%
+HKR,"Product",Name,,%SB_KS50.Product%
+HKR,"DevName",%WaveOutDevName%,,%SB_KS50.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SB_KS50.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SB_KS50.Topology.szPname%
+HKR,"DevName",%MIDIWTSynthDevName%,,%SB_KS50.CTSynth.szPname%
+;; Copy friendly names to a location the driver knows
+HKLM,%DevInfoKS50%,%WaveOutDevName%,,%SB_KS50.Wave.szPname%
+HKLM,%DevInfoKS50%,%WaveInDevName%,,%SB_KS50.Wave.szPname%
+HKLM,%DevInfoKS50%,%MixerDevName%,,%SB_KS50.Topology.szPname%
+HKLM,%DevInfoKS50%,%MIDIWTSynthDevName%,,%SB_KS50.CTSynth.szPname%
+
+[SB_KS50_NAMES.AddReg]
+HKLM,"Software\Creative Tech\SBUsb",ProductInf,,%InfFileName%
+HKLM,"Software\Creative Tech",DEFAULTMIDI,,%SB_KS50.CTSynth.szPname%
+
+;; KS100 specific *****************************************************************************
+[SB_KS100.Interface.Wave]
+AddReg=SB_KS100.Interface.Wave.AddReg
+
+[SB_KS100.Interface.Wave.AddReg]
+HKR,,FriendlyName,,%SB_KS100.Wave.szPname%
+HKR,,CLSID,,%Proxy.CLSID%
+
+[SB_KS100.Interface.Topology]
+AddReg=SB_KS100.Interface.Topo.AddReg
+;; warning!! must be "Topo" because "Topology" is too long
+
+[SB_KS100.Interface.Topo.AddReg]
+HKR,,FriendlyName,,%SB_KS100.Topology.szPname%
+
+[SB_KS100.Interface.Synth]
+AddReg=SB_KS100.Interface.Synth.AddReg
+;; warning!! must be "Synth" because "CTSynth" is too long
+
+[SB_KS100.Interface.Synth.AddReg]
+HKR,,FriendlyName,,%SB_KS100.CTSynth.szPname%
+HKR,,CLSID,,%Proxy.CLSID%
+
+[SB_KS100.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SB_KS100.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv, Description,,%SB_KS100.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SB_KS100.DeviceDesc%
+HKR,"Product",Name,,%SB_KS100.Product%
+HKR,"DevName",%WaveOutDevName%,,%SB_KS100.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SB_KS100.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SB_KS100.Topology.szPname%
+HKR,"DevName",%MIDIWTSynthDevName%,,%SB_KS100.CTSynth.szPname%
+;; Copy friendly names to a location the driver knows
+HKLM,%DevInfoKS100%,%WaveOutDevName%,,%SB_KS100.Wave.szPname%
+HKLM,%DevInfoKS100%,%WaveInDevName%,,%SB_KS100.Wave.szPname%
+HKLM,%DevInfoKS100%,%MixerDevName%,,%SB_KS100.Topology.szPname%
+HKLM,%DevInfoKS100%,%MIDIWTSynthDevName%,,%SB_KS100.CTSynth.szPname%
+
+[SB_KS100_NAMES.AddReg]
+HKLM,"Software\Creative Tech\SBUsb",ProductInf,,%InfFileName%
+HKLM,"Software\Creative Tech",DEFAULTMIDI,,%SB_KS100.CTSynth.szPname%
+
+;; KS150 specific *****************************************************************************
+[SB_KS150.Interface.Wave]
+AddReg=SB_KS150.Interface.Wave.AddReg
+
+[SB_KS150.Interface.Wave.AddReg]
+HKR,,FriendlyName,,%SB_KS150.Wave.szPname%
+HKR,,CLSID,,%Proxy.CLSID%
+
+[SB_KS150.Interface.Topology]
+AddReg=SB_KS150.Interface.Topo.AddReg
+;; warning!! must be "Topo" because "Topology" is too long
+
+[SB_KS150.Interface.Topo.AddReg]
+HKR,,FriendlyName,,%SB_KS150.Topology.szPname%
+
+[SB_KS150.Interface.Synth]
+AddReg=SB_KS150.Interface.Synth.AddReg
+;; warning!! must be "Synth" because "CTSynth" is too long
+
+[SB_KS150.Interface.Synth.AddReg]
+HKR,,FriendlyName,,%SB_KS150.CTSynth.szPname%
+HKR,,CLSID,,%Proxy.CLSID%
+
+[SB_KS150.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SB_KS150.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv, Description,,%SB_KS150.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SB_KS150.DeviceDesc%
+HKR,"Product",Name,,%SB_KS150.Product%
+HKR,"DevName",%WaveOutDevName%,,%SB_KS150.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SB_KS150.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SB_KS150.Topology.szPname%
+HKR,"DevName",%MIDIWTSynthDevName%,,%SB_KS150.CTSynth.szPname%
+;; Copy friendly names to a location the driver knows
+HKLM,%DevInfoKS150%,%WaveOutDevName%,,%SB_KS150.Wave.szPname%
+HKLM,%DevInfoKS150%,%WaveInDevName%,,%SB_KS150.Wave.szPname%
+HKLM,%DevInfoKS150%,%MixerDevName%,,%SB_KS150.Topology.szPname%
+HKLM,%DevInfoKS150%,%MIDIWTSynthDevName%,,%SB_KS150.CTSynth.szPname%
+
+[SB_KS150_NAMES.AddReg]
+HKLM,"Software\Creative Tech\SBUsb",ProductInf,,%InfFileName%
+HKLM,"Software\Creative Tech",DEFAULTMIDI,,%SB_KS150.CTSynth.szPname%
+
+;; Generic *****************************************************************************
+
+[SBUSB.AddReg]
+HKR,,SetupPreferredAudioDevices,3,01,00,00,00
+HKR,,AssociatedFilters,,"wdmaud,swmidi,redbook"
+HKR,,Driver,,sbusb.sys
+HKR,,NTMPDriver,,"sbusb.sys"
+HKR,Drivers,SubClasses,,"wave,midi,mixer"
+HKR,Drivers\wave\wdmaud.drv, Driver,,wdmaud.drv
+HKR,Drivers\midi\wdmaud.drv, Driver,,wdmaud.drv
+HKR,Drivers\mixer\wdmaud.drv,Driver,,wdmaud.drv
+HKR,Config,Refresh,1,1,0,0,0
+
+[SBUSBSF.SHARED.AddReg]
+HKLM,%StrCTKey%\BinaryClassID\%SFM_BINARY_CLSID%,DeviceName,,"\Device\CTSFM2K"
+HKLM,%StrCTKey%\BinaryClassID\%SFM_BINARY_CLSID%,ServiceName,,"ctsfm2k"
+HKLM,%StrCTKey%\BinaryClassID\%SFM_BINARY_CLSID%,FileDeviceType,0x00010001,51
+HKLM,%StrCTKey%\BinaryClassID\%SFM_BINARY_CLSID%,ServiceType,0x00010001,28
+
+[AudCtrl.AddReg]
+HKLM,Software\Microsoft\Windows\CurrentVersion\Run,"SbUsb AudCtrl",,"RunDll32 sbusbdll.dll,RCMonitor"
+
+[A3D.AddReg]
+HKCR,A3D,,,"A3d Object"
+HKCR,A3D\CLSID,,,"{D8F1EEE0-F634-11CF-8700-00A0245D918B}"
+HKCR,CLSID\{D8F1EEE0-F634-11CF-8700-00A0245D918B},,,"A3D Object"
+HKCR,CLSID\{D8F1EEE0-F634-11CF-8700-00A0245D918B}\InprocServer32,,,"A3D.DLL"
+HKCR,CLSID\{D8F1EEE0-F634-11CF-8700-00A0245D918B}\InprocServer32,"ThreadingModel", ,"Apartment"
+
+[SFMS32.SHARED.AddReg]
+HKCR,SFMSMgr,,,"SoundFont Manager"
+HKCR,SFMSMgr\CLSID,,,"{57513120-F9D7-11D3-9F8E-00A0C92C17A1}"
+HKCR,CLSID\{57513120-F9D7-11D3-9F8E-00A0C92C17A1},,,"SoundFont Manager"
+HKCR,CLSID\{57513120-F9D7-11D3-9F8E-00A0C92C17A1}\InprocServer32,,,"SFMS32.DLL"
+HKCR,CLSID\{57513120-F9D7-11D3-9F8E-00A0C92C17A1}\InprocServer32,"ThreadingModel", ,"Apartment"
+
+;; All strings that appear in the mixer should appear here
+;; Remember to add the LongName to ShortName entry in %MixerName%
+;; so that our mixer can display the correct Icon
+HKLM,%MediaCategories%\%SBUSBGUID.Chorus%,Name,,%KSNode.CHORUS%
+HKLM,%MixerName%,%KSNode.Chorus%,,%KSNodeShort.Chorus%
+HKLM,%MediaCategories%\%SBUSBGUID.DigitalIn%,Name,,%KSNode.DIGITALIN%
+HKLM,%MixerName%,%KSNode.DIGITALIN%,,%KSNodeShort.DIGITALIN%
+HKLM,%MediaCategories%\%SBUSBGUID.DigitalOut%,Name,,%KSNode.DIGITALOUT%
+HKLM,%MixerName%,%KSNode.DIGITALOUT%,,%KSNodeShort.DIGITALOUT%
+HKLM,%MediaCategories%\%SBUSBGUID.WhatUHear%,Name,,%KSNode.WhatUHear%
+HKLM,%MixerName%,%KSNode.WhatUHear%,,%KSNodeShort.WhatUHear%
+HKLM,%MediaCategories%\%SBUSBGUID.HostMix%,Name,,%KSNode.HostMix%
+HKLM,%MixerName%,%KSNode.HostMix%,,%KSNodeShort.HostMix%
+HKLM,%MediaCategories%\%SBUSBGUID.AnalogMix%,Name,,%KSNode.AnalogMix%
+HKLM,%MixerName%,%KSNode.AnalogMix%,,%KSNodeShort.AnalogMix%
+HKLM,%MediaCategories%\%SBUSBGUID.MIDIReverb%,Name,,%KSNode.MIDIReverb%
+HKLM,%MixerName%,%KSNode.MIDIReverb%,,%KSNodeShort.MIDIReverb%
+
+HKLM,%MediaCategories%\%SBUSBGUID.PlayCtrl%,Name,,%KSNode.PlayCtrl%
+HKLM,%MixerName%,%KSNode.PlayCtrl%,,%KSNodeShort.PlayCtrl%
+HKLM,%MediaCategories%\%SBUSBGUID.RecCtrl%,Name,,%KSNode.RecCtrl%
+HKLM,%MixerName%,%KSNode.RecCtrl%,,%KSNodeShort.RecCtrl%
+HKLM,%MediaCategories%\%SBUSBGUID.DestEfxFader%,Name,,%KSNode.DestEfxFader%
+HKLM,%MixerName%,%KSNode.DestEfxFader%,,%KSNodeShort.DestEfxFader%
+HKLM,%MediaCategories%\%SBUSBGUID.Bass%,Name,,%KSNode.Bass%
+HKLM,%MixerName%,%KSNode.Bass%,,%KSNodeShort.Bass%
+HKLM,%MediaCategories%\%SBUSBGUID.Treble%,Name,,%KSNode.Treble%
+HKLM,%MixerName%,%KSNode.Treble%,,%KSNodeShort.Treble%
+
+HKLM,%MediaCategories%\%SBUSBGUID.Wave%,Name,,%KSNode.Wave%
+HKLM,%MixerName%,%KSNode.Wave%,,%KSNodeShort.Wave%
+HKLM,%MediaCategories%\%SBUSBGUID.MIDI%,Name,,%KSNode.MIDI%
+HKLM,%MixerName%,%KSNode.MIDI%,,%KSNodeShort.MIDI%
+HKLM,%MediaCategories%\%SBUSBGUID.LineIn%,Name,,%KSNode.LineIn%
+HKLM,%MixerName%,%KSNode.LineIn%,,%KSNodeShort.LineIn%
+HKLM,%MediaCategories%\%SBUSBGUID.Mic%,Name,,%KSNode.Mic%
+HKLM,%MixerName%,%KSNode.Mic%,,%KSNodeShort.Mic%
+HKLM,%MediaCategories%\%SBUSBGUID.LineMicIn%,Name,,%KSNode.LineMicIn%
+HKLM,%MixerName%,%KSNode.LineMicIn%,,%KSNodeShort.LineMicIn%
+HKLM,%MediaCategories%\%SBUSBGUID.CDAudio%,Name,,%KSNode.CD%
+HKLM,%MixerName%,%KSNode.CD%,,%KSNodeShort.CDAudio%
+HKLM,%MediaCategories%\%SBUSBGUID.LineGuitarIn%,Name,,%KSNode.LineGuitarIn%
+HKLM,%MixerName%,%KSNode.LineGuitarIn%,,%KSNodeShort.LineGuitarIn%
+HKLM,%MediaCategories%\%SBUSBGUID.LinePhonoIn%,Name,,%KSNode.LinePhonoIn%
+HKLM,%MixerName%,%KSNode.LinePhonoIn%,,%KSNodeShort.LinePhonoIn%
+HKLM,%MediaCategories%\%SBUSBGUID.MicBoost%,Name,,%KSNode.MicBoost%
+HKLM,%MixerName%,%KSNode.MicBoost%,,%KSNodeShort.MicBoost%
+HKLM,%MediaCategories%\%SBUSBGUID.MicBoostCap%,Name,,%KSNode.MicBoostCap%
+HKLM,%MixerName%,%KSNode.MicBoostCap%,,%KSNodeShort.MicBoostCap%
+HKLM,%MediaCategories%\%SBUSBGUID.Line1MicIn%,Name,,%KSNode.Line1MicIn%
+HKLM,%MixerName%,%KSNode.Line1MicIn%,,%KSNodeShort.Line1MicIn%
+HKLM,%MediaCategories%\%SBUSBGUID.SwMonitor%,Name,,%KSNode.SwMonitor%
+HKLM,%MixerName%,%KSNode.SwMonitor%,,%KSNodeShort.SwMonitor%
+
+;; Make another copy of mixer names so that AudCtrl can restore at startup
+HKLM,%MyMixerName%,%KSNodeShort.Chorus%,,%KSNode.Chorus%
+HKLM,%MyMixerName%,%KSNodeShort.DIGITALIN%,,%KSNode.DIGITALIN%
+HKLM,%MyMixerName%,%KSNodeShort.DIGITALOUT%,,%KSNode.DIGITALOUT%
+HKLM,%MyMixerName%,%KSNodeShort.WhatUHear%,,%KSNode.WhatUHear%
+HKLM,%MyMixerName%,%KSNodeShort.HostMix%,,%KSNode.HostMix%
+HKLM,%MyMixerName%,%KSNodeShort.AnalogMix%,,%KSNode.AnalogMix%
+HKLM,%MyMixerName%,%KSNodeShort.PlayCtrl%,,%KSNode.PlayCtrl%
+HKLM,%MyMixerName%,%KSNodeShort.RecCtrl%,,%KSNode.RecCtrl%
+HKLM,%MyMixerName%,%KSNodeShort.DestEfxFader%,,%KSNode.DestEfxFader%
+HKLM,%MyMixerName%,%KSNodeShort.Bass%,,%KSNode.Bass%
+HKLM,%MyMixerName%,%KSNodeShort.Treble%,,%KSNode.Treble%
+HKLM,%MyMixerName%,%KSNodeShort.Wave%,,%KSNode.Wave%
+HKLM,%MyMixerName%,%KSNodeShort.MIDI%,,%KSNode.MIDI%
+HKLM,%MyMixerName%,%KSNodeShort.LineIn%,,%KSNode.LineIn%
+HKLM,%MyMixerName%,%KSNodeShort.Mic%,,%KSNode.Mic%
+HKLM,%MyMixerName%,%KSNodeShort.LineMicIn%,,%KSNode.LineMicIn%
+HKLM,%MyMixerName%,%KSNodeShort.CDAudio%,,%KSNode.CD%
+HKLM,%MyMixerName%,%KSNodeShort.LineGuitarIn%,,%KSNode.LineGuitarIn%
+HKLM,%MyMixerName%,%KSNodeShort.LinePhonoIn%,,%KSNode.LinePhonoIn%
+HKLM,%MyMixerName%,%KSNodeShort.MicBoost%,,%KSNode.MicBoost%
+HKLM,%MyMixerName%,%KSNodeShort.MicBoostCap%,,%KSNode.MicBoostCap%
+HKLM,%MyMixerName%,%KSNodeShort.Line1MicIn%,,%KSNode.Line1MicIn%
+HKLM,%MyMixerName%,%KSNodeShort.MIDIReverb%,,%KSNode.MIDIReverb%
+HKLM,%MyMixerName%,%KSNodeShort.SwMonitor%,,%KSNode.SwMonitor%
+
+[DestinationDirs]
+SBUSB.CopyList      = 10,system32\drivers ; %SystemRoot%\system32\drivers
+CTSynth.NT.CopyList = 10,system32\drivers ; %SystemRoot%\system32\drivers
+DefaultDestDir      = 10,system32\drivers
+A3D.CopyList        = 11
+Utility.CopyList    = 11
+SFMAN.CopyList      = 11
+
+[SBUSB.CopyList]
+sbusb.sys
+
+[CTSynth.NT.CopyList]
+ctoss2k.sys
+ctsfm2k.sys
+
+[A3D.CopyList]
+a3d.dll
+
+[Utility.CopyList]
+sbusbdll.dll
+
+[SFMAN.CopyList]
+sfman32.dll
+sfms32.dll
+ct2mgm.sf2
+
+;;**************** NT Install ****************
+
+[SB_KS50_Device.NT]
+Include=ks.inf, wdmaudio.inf
+Needs=KS.Registration, WDMAUDIO.Registration
+CopyFiles=A3D.CopyList,Utility.CopyList,CTSynth.NT.CopyList,SFMAN.CopyList,SBUSB.CopyList
+AddReg=SBUSB.AddReg,SB_KS50_NAMES.AddReg,AudCtrl.AddReg,A3D.AddReg,SB_KS50.AddReg,SBUSBSF.SHARED.AddReg,SFMS32.SHARED.AddReg
+
+[SB_KS100_Device.NT]
+Include=ks.inf, wdmaudio.inf
+Needs=KS.Registration, WDMAUDIO.Registration
+CopyFiles=A3D.CopyList,Utility.CopyList,CTSynth.NT.CopyList,SFMAN.CopyList,SBUSB.CopyList
+AddReg=SBUSB.AddReg,SB_KS100_NAMES.AddReg,AudCtrl.AddReg,A3D.AddReg,SB_KS100.AddReg,SBUSBSF.SHARED.AddReg,SFMS32.SHARED.AddReg
+
+[SB_KS150_Device.NT]
+Include=ks.inf, wdmaudio.inf
+Needs=KS.Registration, WDMAUDIO.Registration
+CopyFiles=A3D.CopyList,Utility.CopyList,CTSynth.NT.CopyList,SFMAN.CopyList,SBUSB.CopyList
+AddReg=SBUSB.AddReg,SB_KS150_NAMES.AddReg,AudCtrl.AddReg,A3D.AddReg,SB_KS150.AddReg,SBUSBSF.SHARED.AddReg,SFMS32.SHARED.AddReg
+
+;; KS50 specific NT install*****************************************************************************
+
+[SB_KS50_Device.NT.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_Wave%,       	SB_KS50.Interface.Wave
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_Wave%,      	SB_KS50.Interface.Wave
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_Wave%,     	SB_KS50.Interface.Wave
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_Topology%,   	SB_KS50.Interface.Topology
+AddInterface=%KSCATEGORY_TOPOLOGY%,%KSNAME_Topology%,	SB_KS50.Interface.Topology
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_SFSYNTH%,       SB_KS50.Interface.Synth
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_SFSYNTH%,      SB_KS50.Interface.Synth
+AddInterface=%KSCATEGORY_SYNTHESIZER%,%KSNAME_SFSYNTH%, SB_KS50.Interface.Synth
+
+[SB_KS50_Device.NT.Services]
+AddService = sbusb, 0x00000002, SB_Service_Inst
+AddService = ossrv,, ossrv_Service_Inst
+AddService = ctsfm2k,,sfman_Service_Inst
+
+;; KS100 specific NT install*****************************************************************************
+
+[SB_KS100_Device.NT.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_Wave%,       	SB_KS100.Interface.Wave
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_Wave%,      	SB_KS100.Interface.Wave
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_Wave%,     	SB_KS100.Interface.Wave
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_Topology%,   	SB_KS100.Interface.Topology
+AddInterface=%KSCATEGORY_TOPOLOGY%,%KSNAME_Topology%,	SB_KS100.Interface.Topology
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_SFSYNTH%,       SB_KS100.Interface.Synth
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_SFSYNTH%,      SB_KS100.Interface.Synth
+AddInterface=%KSCATEGORY_SYNTHESIZER%,%KSNAME_SFSYNTH%, SB_KS100.Interface.Synth
+
+[SB_KS100_Device.NT.Services]
+AddService = sbusb, 0x00000002, SB_Service_Inst
+AddService = ossrv,, ossrv_Service_Inst
+AddService = ctsfm2k,,sfman_Service_Inst
+
+;; KS150 specific NT install*****************************************************************************
+
+[SB_KS150_Device.NT.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_Wave%,          SB_KS150.Interface.Wave
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_Wave%,         SB_KS150.Interface.Wave
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_Wave%,        SB_KS150.Interface.Wave
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_Topology%,      SB_KS150.Interface.Topology
+AddInterface=%KSCATEGORY_TOPOLOGY%,%KSNAME_Topology%,   SB_KS150.Interface.Topology
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_SFSYNTH%,       SB_KS150.Interface.Synth
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_SFSYNTH%,      SB_KS150.Interface.Synth
+AddInterface=%KSCATEGORY_SYNTHESIZER%,%KSNAME_SFSYNTH%, SB_KS150.Interface.Synth
+
+[SB_KS150_Device.NT.Services]
+AddService = sbusb, 0x00000002, SB_Service_Inst
+AddService = ossrv,, ossrv_Service_Inst
+AddService = ctsfm2k,,sfman_Service_Inst
+
+;; Generic NT install*****************************************************************************
+
+[SB_Service_Inst]
+DisplayName    = %sbUSB.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\sbusb.sys
+
+[ossrv_Service_Inst]
+DisplayName    = %OSSRV.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\ctoss2k.sys
+
+[sfman_Service_Inst]
+DisplayName    = %SFMAN.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\ctsfm2k.sys
+
+[Strings]
+InfFileName             ="kscombo.inf"
+MfgName                 ="Creative Technology Ltd."
+SB_KS50.DeviceDesc        ="Creative SB Digital Music LX"
+SB_KS50.Product           ="Creative SB Digital Music LX"
+SB_KS50.Wave.szPname      ="SB Digital Music LX"
+SB_KS50.Topology.szPname  ="SB Digital Music LX"
+SB_KS50.CTSynth.szPname   ="Creative USB SoundFont Synth"
+
+SB_KS100.DeviceDesc        ="Creative Sound Blaster"
+SB_KS100.Product           ="Creative Sound Blaster"
+SB_KS100.Wave.szPname      ="Sound Blaster"
+SB_KS100.Topology.szPname  ="Sound Blaster"
+SB_KS100.CTSynth.szPname   ="Creative USB SoundFont Synth"
+
+SB_KS150.DeviceDesc        ="Sound Blaster Live! 24-bit External"
+SB_KS150.Product           ="Sound Blaster Live! 24-bit External"
+SB_KS150.Wave.szPname      ="SB Live! 24-bit External"
+SB_KS150.Topology.szPname  ="SB Live! 24-bit External"
+SB_KS150.CTSynth.szPname   ="Creative USB SoundFont Synth"
+
+;; Dynamic loaded Kernal Module Keys
+StrCTKey="SYSTEM\CurrentControlSet\Control\Creative Tech"
+SFM_BINARY_CLSID="{945DD118-E139-41c4-A916-FA65053774C2}"
+
+DriverDisk1             ="Creative USB Sound Blaster Installation Disk 1 or CD"
+
+USB\VID_041E&PID_3010&MI_00.DeviceDesc = "Creative Sound Blaster"
+USB\VID_041E&PID_3015&MI_00.DeviceDesc = "Creative SB Digital Music LX"
+USB\VID_041E&PID_3040&MI_00.DeviceDesc = "Sound Blaster Live! 24-bit External"
+
+MediaCategories         ="SYSTEM\CurrentControlSet\Control\MediaCategories"
+
+Proxy.CLSID             ="{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO        ="{6994AD04-93EF-11D0-A3CC-00A0C9223196}"
+KSCATEGORY_RENDER       ="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE      ="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_TOPOLOGY     ="{DDA54A40-1E4C-11D1-A050-405705C10000}"
+KSCATEGORY_SYNTHESIZER  ="{DFF220F3-F70F-11D0-B917-00A0C9223196}"
+KSNAME_Wave             ="Wave"
+KSNAME_Topology         ="Topology"
+KSNAME_SFSYNTH          ="CTSynth"
+
+sbUSB.SvcDesc           = "Sound Blaster USB Audio Driver"
+OSSRV.SvcDesc           = "Creative OS Services Driver"
+SFMAN.SvcDesc           = "Creative SoundFont Management Device Driver"
+
+
+;; Device Names (non-localizable)
+DevInfoKS50             ="SOFTWARE\Creative Tech\SBUsb\VID_041E&PID_3015"
+DevInfoKS100            ="SOFTWARE\Creative Tech\SBUsb\VID_041E&PID_3010"
+DevInfoKS150            ="SOFTWARE\Creative Tech\SBUsb\VID_041E&PID_3040"
+MixerName               ="SOFTWARE\Creative Tech\MixerName"
+MyMixerName             ="SOFTWARE\Creative Tech\SBUsb\MixerName"
+WaveOutDevName          ="WaveOutName"
+WaveInDevName           ="WaveInName"
+MIDIOutDevName          ="MIDIOutName"
+MIDIInDevName           ="MIDIInName"
+MixerDevName            ="MixerName"
+MIDIWTSynthDevName      ="MIDISynthName"
+
+;; Nodes (non-localizeable)
+SBUSBGUID.PlayCtrl      ="{D00A9702-63D0-11d5-95E0-00A0C9817442}"
+SBUSBGUID.RecCtrl       ="{E615C64a-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.DestEfxFader  ="{E615C647-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.Bass          ="{E615C645-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.Treble        ="{E615C646-9DF6-11d5-A383-009027449656}"
+
+SBUSBGUID.Chorus        ="{E615C649-9DF6-11d5-A383-009027449656}"
+
+SBUSBGUID.Wave          ="{E615C642-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.MIDI          ="{E615C648-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.LineIn        ="{D00A9707-63D0-11d5-95E0-00A0C9817442}"
+SBUSBGUID.Mic           ="{E615C644-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.CDAudio       ="{E615C643-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.LineMicIn     ="{E615C64C-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.LineGuitarIn  ="{E615C64D-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.LinePhonoIn   ="{E615C64E-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.MicBoost      ="{E615C650-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.MicBoostCap   ="{E615C651-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.Line1MicIn    ="{E615C652-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.SwMonitor     ="{E615C653-9DF6-11d5-A383-009027449656}"
+
+SBUSBGUID.DigitalIn     ="{D00A9709-63D0-11d5-95E0-00A0C9817442}"
+SBUSBGUID.DigitalOut    ="{E615C64b-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.WhatUHear     ="{E615C641-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.HostMix       ="{E615C640-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.AnalogMix     ="{E615C64F-9DF6-11d5-A383-009027449656}"
+SBUSBGUID.MIDIReverb    ="{45DA3CE2-C7BE-4305-A5B7-17886D6FEE67}"
+
+;; Nodes Short Names for Mixer Icon lookup (non-localizeable)
+KSNodeShort.PlayCtrl     ="Play"
+KSNodeShort.RecCtrl      ="Rec"
+KSNodeShort.DestEfxFader ="FrontRear"
+KSNodeShort.Bass         ="Bass"
+KSNodeShort.Treble       ="Treble"
+KSNodeShort.Chorus       ="Chorus"
+KSNodeShort.Wave         ="Wave"
+KSNodeShort.MIDI         ="MIDI"
+KSNodeShort.LineIn       ="Line"
+KSNodeShort.Mic          ="Mic"
+KSNodeShort.LineMicIn    ="LineMic"
+KSNodeShort.LineGuitarIn ="LineGuitar"
+KSNodeShort.LinePhonoIn  ="LinePhono"
+KSNodeShort.MicBoost     ="MicBoost"
+KSNodeShort.MicBoostCap  ="MicBoost"
+KSNodeShort.CDAudio      ="CD"
+KSNodeShort.DigitalIn    ="GPSPDIF"
+KSNodeShort.DigitalOut   ="DOO"
+KSNodeShort.HostMix      ="HMix"
+KSNodeShort.WhatUHear    ="UHear"
+KSNodeShort.AnalogMix    ="AnalogMix"
+KSNodeShort.Line1MicIn   ="Line1Mic"
+KSNodeShort.MIDIReverb   ="MIDI Reverb"
+KSNodeShort.SwMonitor    ="Monitor"
+
+;; Nodes (localizeable)
+KSNode.PlayCtrl          ="Play Control"
+KSNode.RecCtrl           ="Record Control"
+KSNode.DestEfxFader      ="Front Rear Balance"
+KSNode.Bass              ="Bass"
+KSNode.Treble            ="Treble"
+KSNode.Chorus            ="MIDI Chorus"
+KSNode.Wave              ="Wave"
+KSNode.MIDI              ="MIDI"
+KSNode.LineIn            ="Line-In"
+KSNode.Mic               ="Microphone"
+KSNode.LineMicIn         ="Line-In/Mic-In"
+KSNode.LineGuitarIn      ="Line-In 2/Guitar Hi-Z"
+KSNode.LinePhonoIn       ="Line-In 3/Phono-In"
+KSNode.MicBoost          ="Microphone Boost"
+KSNode.MicBoostCap       ="Microphone Boost"
+KSNode.CD                ="CD Audio"
+KSNode.DigitalIn         ="SPDIF-In"
+KSNode.DigitalOut        ="Digital Out Only"
+KSNode.HostMix           ="Wave/MIDI/CD"
+KSNode.WhatUHear         ="What U Hear"
+KSNode.AnalogMix         ="Analog Mix"
+KSNode.Line1MicIn        ="Line-In 1/Mic-In"
+KSNode.MIDIReverb        ="MIDI Reverb"
+KSNode.SwMonitor         ="Monitor"

@@ -1,0 +1,973 @@
+[Ctrun.dbd]
+DAT=
+
+[DAT.Welcome.Scene2 Title EN]
+Type=2
+Data=Welcome to Creative Software Setup
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Scene2 Title FR]
+Type=2
+Data=Bienvenue dans le logiciel d'installation de Creative
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Scene2 Title IT]
+Type=2
+Data=Benvenuto nel Setup del Software Creative
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Scene2 Title DE]
+Type=2
+Data=Willkommen beim Creative Software Setup
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Scene2 Title ES]
+Type=2
+Data=Bienvenido a Creative Software Setup
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Scene2 Title NL]
+Type=2
+Data=Welkom bij Creative Software installatie
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Scene2 Title BP]
+Type=2
+Data=Bem-vindo à configuração de software da Creative
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Scene2 Title JP]
+Type=2
+Data=Creativeƒ\ƒtƒgƒEƒFƒAƒZƒbƒgƒAƒbƒv
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=10
+
+[DAT.Welcome.Scene2 Title KO]
+Type=2
+Data=Creative ¼³Ä¡ ÇÁ·Î±×·¥¿¡ ¿À½Å°ÍÀ» È¯¿µÇÕ´Ï´Ù
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=10
+
+[DAT.Welcome.Scene2 Title CT]
+Type=2
+Data=Åwªï¨Ï¥Î Creative ³nÅé¦w¸Ëµ{¦¡
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=10
+
+[DAT.Welcome.Scene2 Title CS]
+Type=2
+Data=»¶Ó­Ê¹ÓÃ Creative Èí¼ş°²×°
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=10
+
+[DAT.Welcome.Exit1 EN]
+Type=2
+Data=Exit
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit1 FR]
+Type=2
+Data=Quitter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit1 IT]
+Type=2
+Data=Esci
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit1 DE]
+Type=2
+Data=Beenden
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit1 ES]
+Type=2
+Data=Salir
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit1 NL]
+Type=2
+Data=Stoppen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit1 BP]
+Type=2
+Data=Sair
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit1 JP]
+Type=2
+Data=I—¹
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=11
+
+[DAT.Welcome.Exit1 KO]
+Type=2
+Data=Á¾·á
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=11
+
+[DAT.Welcome.Exit1 CS]
+Type=2
+Data=ÍË³ö
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=11
+
+[DAT.Welcome.Exit1 CT]
+Type=2
+Data=µ²§ô
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=11
+
+[DAT.Welcome.Exit2 EN]
+Type=2
+Data=Exit
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit2 FR]
+Type=2
+Data=Quitter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit2 IT]
+Type=2
+Data=Esci
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit2 DE]
+Type=2
+Data=Beenden
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit2 ES]
+Type=2
+Data=Salir
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit2 NL]
+Type=2
+Data=Stoppen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit2 BP]
+Type=2
+Data=Sair
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Exit2 JP]
+Type=2
+Data=I—¹
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=11
+
+[DAT.Welcome.Exit2 KO]
+Type=2
+Data=Á¾·á
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=11
+
+[DAT.Welcome.Exit2 CS]
+Type=2
+Data=ÍË³ö
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=11
+
+[DAT.Welcome.Exit2 CT]
+Type=2
+Data=µ²§ô
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=11
+
+[DAT.Welcome.Next EN]
+Type=2
+Data=Next
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Next FR]
+Type=2
+Data=Suivant
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Next IT]
+Type=2
+Data=Avanti
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Next DE]
+Type=2
+Data=Weiter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Next ES]
+Type=2
+Data=Siguiente
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Next NL]
+Type=2
+Data=Volgende
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Next BP]
+Type=2
+Data=Próxima
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Welcome.Next JP]
+Type=2
+Data=Ÿ‚Ö
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=11
+
+[DAT.Welcome.Next KO]
+Type=2
+Data=´ÙÀ½
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=11
+
+[DAT.Welcome.Next CS]
+Type=2
+Data=ÏÂÒ»²½
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=11
+
+[DAT.Welcome.Next CT]
+Type=2
+Data=¤U¤@¨B
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=11
+
+[DAT.Welcome.Welcome Title EN]
+Type=2
+Data=Welcome
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Title FR]
+Type=2
+Data=Bienvenue
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Title IT]
+Type=2
+Data=Benvenuto
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Title DE]
+Type=2
+Data=Willkommen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Title ES]
+Type=2
+Data=Bienvenido
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Title NL]
+Type=2
+Data=Welkom
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Title BP]
+Type=2
+Data=Bem-vindo
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Title JP]
+Type=2
+Data=‚æ‚¤‚±‚»
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=10
+
+[DAT.Welcome.Welcome Title KO]
+Type=2
+Data=È¯¿µ
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=10
+
+[DAT.Welcome.Welcome Title CT]
+Type=2
+Data=Åwªï
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=10
+
+[DAT.Welcome.Welcome Title CS]
+Type=2
+Data=»¶Ó­
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=10
+
+[DAT.Welcome.Welcome Message EN]
+Type=2
+Data=Take full advantage of your Creative product by installing and using this software.\n\nClick on the arrow key to continue the installation process.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Message FR]
+Type=2
+Data=Profitez un maximum de votre produit Creative en installant et utilisant ce logiciel.\n\nCliquer sur la fleche du bas pour continuer la procédure d'installation.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Message IT]
+Type=2
+Data=Sfrutti tutte le capacità del suo prodotto Creative installando ed utilizzando questo software.\n\nClicchi sulla freccia per proseguire con l'installazione.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Message DE]
+Type=2
+Data=Ziehen Sie vollen Nutzen aus Ihrem Creative-Produkt, indem Sie diese Software installieren und verwenden.\n\nKlicken Sie auf die Pfeiltaste, um mit dem Installationsprozess fortzufahren.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Message ES]
+Type=2
+Data=Aproveche las ventajas de su producto Creative instalando y usando este software.\n\nPulse en la flecha para continuar con el proceso de instalación.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Message NL]
+Type=2
+Data=Benut alle mogelijkheden van uw Creative product door de software te installeren en te gebruiken.\n\nKlik op een willekeurige pijltoets om de installatie procedure te vervolgen.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Message BP]
+Type=2
+Data=Instale e use este software para maximizar o potencial do seu produto Creative.\n\nClique na seta para continuar o processo de instalação.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Welcome.Welcome Message JP]
+Type=2
+Data=Creative»•i‚ğŠˆ—p‚·‚é‚½‚ß‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğƒCƒ“ƒXƒg[ƒ‹‚µ‚Ä‰º‚³‚¢B\n\n–îˆóƒ{ƒ^ƒ“‚ğƒNƒŠƒbƒN‚·‚é‚ÆƒCƒ“ƒXƒg[ƒ‹‚ğŠJn‚µ‚Ü‚·B
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=10
+
+[DAT.Welcome.Welcome Message KO]
+Type=2
+Data=Creative ÇÁ·Î±×·¥À» ¼³Ä¡ÇÏ¿© »ç¿ëÇÏ½Ã¸é Á¦Ç°ÀÇ ¸ğµç ±â´ÉÀ» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.\n\n¼³Ä¡ °úÁ¤À» °è¼ÓÇÏ·Á¸é È­»ìÇ¥ Å°¸¦ ´©¸£½Ê½Ã¿À.
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=10
+
+[DAT.Welcome.Welcome Message CT]
+Type=2
+Data=¦w¸Ë©M¨Ï¥Î¦¹³nÅé¥i¥R¤Àµo´§ Creative ²£«~ªº®Ä¯à¡C\n\n³æ«ö½b¸¹ÁäÄ~Äò¦w¸Ë¦¹³nÅé¡C
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=10
+
+[DAT.Welcome.Welcome Message CS]
+Type=2
+Data=°²×°ºÍÊ¹ÓÃ´ËÈí¼ş½«Ê¹Äú³ä·ÖÀûÓÃ Creative ²úÆ·µÄÇ¿´ó¹¦ÄÜ¡£\n\nµ¥»÷¼ıÍ·°´Å¥£¬¼ÌĞø°²×°´ËÈí¼ş¡£
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=10
+
+[DAT.OS Error.Scene2 Title EN]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Scene2 Title FR]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Scene2 Title IT]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Scene2 Title DE]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Scene2 Title ES]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Scene2 Title NL]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Scene2 Title BP]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Scene2 Title JP]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=10
+
+[DAT.OS Error.Scene2 Title KO]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=10
+
+[DAT.OS Error.Scene2 Title CT]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=10
+
+[DAT.OS Error.Scene2 Title CS]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=10
+
+[DAT.OS Error.Exit1 EN]
+Type=2
+Data=Exit
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit1 FR]
+Type=2
+Data=Quitter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit1 IT]
+Type=2
+Data=Esci
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit1 DE]
+Type=2
+Data=Beenden
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit1 ES]
+Type=2
+Data=Salir
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit1 NL]
+Type=2
+Data=Stoppen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit1 BP]
+Type=2
+Data=Sair
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit1 JP]
+Type=2
+Data=I—¹
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=11
+
+[DAT.OS Error.Exit1 KO]
+Type=2
+Data=Á¾·á
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=11
+
+[DAT.OS Error.Exit1 CS]
+Type=2
+Data=ÍË³ö
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=11
+
+[DAT.OS Error.Exit1 CT]
+Type=2
+Data=µ²§ô
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=11
+
+[DAT.OS Error.Exit2 EN]
+Type=2
+Data=Exit
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit2 FR]
+Type=2
+Data=Quitter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit2 IT]
+Type=2
+Data=Esci
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit2 DE]
+Type=2
+Data=Beenden
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit2 ES]
+Type=2
+Data=Salir
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit2 NL]
+Type=2
+Data=Stoppen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit2 BP]
+Type=2
+Data=Sair
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Exit2 JP]
+Type=2
+Data=I—¹
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=11
+
+[DAT.OS Error.Exit2 KO]
+Type=2
+Data=Á¾·á
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=11
+
+[DAT.OS Error.Exit2 CS]
+Type=2
+Data=ÍË³ö
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=11
+
+[DAT.OS Error.Exit2 CT]
+Type=2
+Data=µ²§ô
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=11
+
+[DAT.OS Error.Next EN]
+Type=2
+Data=Next
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Next FR]
+Type=2
+Data=Suivant
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Next IT]
+Type=2
+Data=Avanti
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Next DE]
+Type=2
+Data=Weiter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Next ES]
+Type=2
+Data=Siguiente
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Next NL]
+Type=2
+Data=Volgende
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Next BP]
+Type=2
+Data=Próxima
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.OS Error.Next JP]
+Type=2
+Data=Ÿ‚Ö
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=11
+
+[DAT.OS Error.Next KO]
+Type=2
+Data=´ÙÀ½
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=11
+
+[DAT.OS Error.Next CS]
+Type=2
+Data=ÏÂÒ»²½
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=11
+
+[DAT.OS Error.Next CT]
+Type=2
+Data=¤U¤@¨B
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=11
+
+[DAT.OS Error.Message EN]
+Type=2
+Data=The Windows® operating system running on this computer is not supported by this product.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Message FR]
+Type=2
+Data=Le système d’exploitation Windows® installé sur cet ordinateur ne prend pas en charge ce produit.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Message IT]
+Type=2
+Data=Il sistema operativo Windows® in esecuzione su questo computer non è supportato da questo prodotto.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Message DE]
+Type=2
+Data=Das auf diesem Computer ausgeführte Windows®-Betriebssystem wird von diesem Produkt nicht unterstützt.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Message ES]
+Type=2
+Data=El sistema operativo Windows® de este equipo no es compatible con este producto.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Message NL]
+Type=2
+Data=Het Windows®-besturingssysteem op deze computer wordt niet door dit product ondersteund.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Message BP]
+Type=2
+Data=O sistema operacional Windows® executado neste computador não é suportado por este produto.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.OS Error.Message JP]
+Type=2
+Data=‚±‚Ì‚Å“®ì‚µ‚Ä‚¢‚éWindows(R) µÍßÚ°Ã¨İ¸Ş ¼½ÃÑ‚Í–{»•i‚Å»Îß°Ä‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ¡
+Caption=
+Tooltip=
+Font=‚l‚r ‚oƒSƒVƒbƒN
+Point Size=10
+
+[DAT.OS Error.Message KO]
+Type=2
+Data=ÀÌ Á¦Ç°Àº ÀÌ ÄÄÇ»ÅÍ¿¡¼­ ½ÇÇà ÁßÀÎ Windows(R) ¿î¿µ Ã¼Á¦¸¦ Áö¿øÇÏÁö ¾Ê½À´Ï´Ù.
+Caption=
+Tooltip=
+Font=±¼¸²
+Point Size=10
+
+[DAT.OS Error.Message CT]
+Type=2
+Data=¥»²£«~¤£¤ä´©¦¹¹q¸£©Ò¥Îªº Windows(R) §@·~¨t²Î¡C
+Caption=
+Tooltip=
+Font=·s²Ó©úÅé
+Point Size=10
+
+[DAT.OS Error.Message CS]
+Type=2
+Data=±¾²úÆ·²»Ö§³Ö´ËÌ¨µçÄÔÉÏÔËĞĞµÄ Windows(R) ²Ù×÷ÏµÍ³¡£
+Caption=
+Tooltip=
+Font=ËÎÌå
+Point Size=10
+
+ 
+ 

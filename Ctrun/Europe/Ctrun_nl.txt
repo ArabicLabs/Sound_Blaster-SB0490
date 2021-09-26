@@ -1,0 +1,223 @@
+[Ctrun_nl.dbd]
+DAT=
+
+[DAT.Software.Scene4 Title]
+Type=2
+Data=Nederlandse installatie
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.Select Software]
+Type=2
+Data=Selecteer Programma's
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.Button 1 Checked State]
+Type=4
+Data=  SB Live! 24-bit External
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 2 Checked State]
+Type=4
+Data=  Creative MediaSource
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 3 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 4 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.View]
+Type=2
+Data=Beeld
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.User's Guide]
+Type=2
+Data=Handboek
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Multiple User Guide Menu]
+Type=13
+Title=
+Instructions=
+Data1=
+Data2=
+Font=Arial
+Point Size=0
+
+[DAT.Software.Tech Support]
+Type=2
+Data=Klanten ondersteuning
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Creative Products]
+Type=2
+Data=Aanbevolen producten
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Install]
+Type=2
+Data=Installeer
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Install Disabled]
+Type=2
+Data=Installeer
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Back]
+Type=2
+Data=Terug
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Back Disabled]
+Type=2
+Data=Terug
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Exit1]
+Type=2
+Data=Stoppen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Exit2]
+Type=2
+Data=Stoppen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Installing Text]
+Type=2
+Data=De installatie wordt uitgevoerd. Een ogenblik geduld...
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Exit Text]
+Type=2
+Data=Klik "Stoppen" om het installatie te beeindigen.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Success.Scene5 Title]
+Type=2
+Data=De installatie is voltooid
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Congratulations Title]
+Type=2
+Data=Gefeliciteerd
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Congratulations Text]
+Type=2
+Data=Creative Sound Blaster Live! 24-bit External is nu geïnstalleerd. De wjizigingen treden echter pas in werking nadat u uw computersysteem opnieuw hebt opgestart.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Install]
+Type=2
+Data=Volgende
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Restart PC.Scene6 Title]
+Type=2
+Data=Computer opnieuw opstarten
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Restart Text]
+Type=2
+Data=Uw computersysteem moet opnieuw worden opgestart om de wijzigingen in werking te laten treden.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Restart Button Text]
+Type=2
+Data=Ja, ik wil mijn computer nu opnieuw opstarten
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.No Restart Button Text]
+Type=2
+Data=Nee, ik start mijn computer pas later opnieuw op
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Next]
+Type=2
+Data=Voltooien
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11

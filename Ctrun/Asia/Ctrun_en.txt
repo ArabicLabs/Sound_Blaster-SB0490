@@ -1,0 +1,223 @@
+[Ctrun_en.dbd]
+DAT=
+
+[DAT.Software.Scene4 Title]
+Type=2
+Data=Software Installation Selection
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.Select Software]
+Type=2
+Data=Select the software to install
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.Button 1 Checked State]
+Type=4
+Data=  SB Live! 24-bit External
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 2 Checked State]
+Type=4
+Data=  Creative MediaSource
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 3 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 4 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.View]
+Type=2
+Data=View
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.User's Guide]
+Type=2
+Data=User's Guide
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Multiple User Guide Menu]
+Type=13
+Title=
+Instructions=
+Data1=
+Data2=
+Font=Arial
+Point Size=0
+
+[DAT.Software.Tech Support]
+Type=2
+Data=Customer Support Services
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Creative Products]
+Type=2
+Data=Creative Products
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Install]
+Type=2
+Data=Install
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Install Disabled]
+Type=2
+Data=Install
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Back]
+Type=2
+Data=Back
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Back Disabled]
+Type=2
+Data=Back
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Exit1]
+Type=2
+Data=Exit
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Exit2]
+Type=2
+Data=Exit
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Installing Text]
+Type=2
+Data=Installation is in progress. Please wait for a while...
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Exit Text]
+Type=2
+Data=Click "Exit" to end the installation.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Success.Scene5 Title]
+Type=2
+Data=Successful Installation
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Congratulations Title]
+Type=2
+Data=Congratulations!
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Congratulations Text]
+Type=2
+Data=Creative Sound Blaster Live! 24-bit External was successfully installed. Please remember to restart your computer system for the changes to take effect
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Install]
+Type=2
+Data=Next
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Restart PC.Scene6 Title]
+Type=2
+Data=Restart Computer
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Restart Text]
+Type=2
+Data=Your computer system has to be restarted for the changes to take effect. 
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Restart Button Text]
+Type=2
+Data=Yes, I want to restart my computer now
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.No Restart Button Text]
+Type=2
+Data=No, I will restart my computer later
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Next]
+Type=2
+Data=Finish
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11

@@ -1,0 +1,1917 @@
+[Asia.dbd]
+DAT=
+
+***********************
+***** English *********
+***********************
+
+[DAT.English.Scene2 Title]
+Type=2
+Data=Language
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region Select]
+Type=2
+Data=Please select a language
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region Default]
+Type=2
+Data=<Select>
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 1]
+Type=2
+Data=English
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 2]
+Type=2
+Data=Japanese
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 3]
+Type=2
+Data=Korean
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 4]
+Type=2
+Data=Chinese (Simplified)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 5]
+Type=2
+Data=Chinese (Traditional)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.English.Region List]
+Type=14
+Data1=English
+Data2=Japanese
+Data3=Korean
+Data4=Chinese (Simplified)
+Data5=Chinese (Traditional)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.English.Exit1]
+Type=2
+Data=Exit
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.English.Exit2]
+Type=2
+Data=Exit
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.English.Back]
+Type=2
+Data=Back
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.English.Next]
+Type=2
+Data=Next
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+***********************
+***** French **********
+***********************
+
+[DAT.French.Scene2 Title]
+Type=2
+Data=Langue
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region Select]
+Type=2
+Data=Veuillez choisir une langue
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region Default]
+Type=2
+Data=<SÈlectionner>
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 1]
+Type=2
+Data=Anglais
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 2]
+Type=2
+Data=Japonais
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 3]
+Type=2
+Data=CorÈen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 4]
+Type=2
+Data=Chinois (SimplifiÈ)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 5]
+Type=2
+Data=Chinois (Traditionnel)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.French.Region List]
+Type=14
+Data1=Anglais
+Data2=Japonais
+Data3=CorÈen
+Data4=Chinois (SimplifiÈ)
+Data5=Chinois (Traditionnel)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.French.Exit1]
+Type=2
+Data=Quitter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.French.Exit2]
+Type=2
+Data=Quitter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.French.Back]
+Type=2
+Data=PrÈcÈdent
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.French.Next]
+Type=2
+Data=Suivant
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+***********************
+***** Italian *********
+***********************
+
+[DAT.Italian.Scene2 Title]
+Type=2
+Data=Lingua
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region Select]
+Type=2
+Data=Selezionare la lingua
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region Default]
+Type=2
+Data=<Selezionare>
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 1]
+Type=2
+Data=Inglese
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 2]
+Type=2
+Data=Giapponese
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 3]
+Type=2
+Data=Coreano
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 4]
+Type=2
+Data=Cinese (Semplificato)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 5]
+Type=2
+Data=Cinese (Tradizionale)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Italian.Region List]
+Type=14
+Data1=Inglese
+Data2=Giapponese
+Data3=Coreano
+Data4=Cinese (Semplificato)
+Data5=Cinese (Tradizionale)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Italian.Exit1]
+Type=2
+Data=Esci
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Italian.Exit2]
+Type=2
+Data=Esci
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Italian.Back]
+Type=2
+Data=Indietro
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Italian.Next]
+Type=2
+Data=Avanti
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+***********************
+***** German **********
+***********************
+
+[DAT.German.Scene2 Title]
+Type=2
+Data=Sprache
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region Select]
+Type=2
+Data=Bitte w‰hlen Sie Ihre Sprache
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region Default]
+Type=2
+Data=<Ausw‰hlen>
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 1]
+Type=2
+Data=Englisch
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 2]
+Type=2
+Data=Japanisch
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 3]
+Type=2
+Data=Koreanisch
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 4]
+Type=2
+Data=Chinesisch (Vereinfacht)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 5]
+Type=2
+Data=Chinesisch (Traditionell)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.German.Region List]
+Type=14
+Data1=Englisch
+Data2=Japanisch
+Data3=Koreanisch
+Data4=Chinesisch (Vereinfacht)
+Data5=Chinesisch (Traditionell)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.German.Exit1]
+Type=2
+Data=Beenden
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.German.Exit2]
+Type=2
+Data=Beenden
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.German.Back]
+Type=2
+Data=Zur¸ck
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.German.Next]
+Type=2
+Data=Weiter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+***********************
+***** Spanish *********
+***********************
+
+[DAT.Spanish.Scene2 Title]
+Type=2
+Data=Idioma
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region Select]
+Type=2
+Data=Por favor seleccione un idioma
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region Default]
+Type=2
+Data=<Seleccionar>
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 1]
+Type=2
+Data=InglÈs
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 2]
+Type=2
+Data=JaponÈs
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 3]
+Type=2
+Data=Coreano
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 4]
+Type=2
+Data=Chino (Simplificado)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 5]
+Type=2
+Data=Chino (Tradicional)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Spanish.Region List]
+Type=14
+Data1=InglÈs
+Data2=JaponÈs
+Data3=Coreano
+Data4=Chino (Simplificado)
+Data5=Chino (Tradicional)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Spanish.Exit1]
+Type=2
+Data=Salir
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Spanish.Exit2]
+Type=2
+Data=Salir
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Spanish.Back]
+Type=2
+Data=Atr·s
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Spanish.Next]
+Type=2
+Data=Siguiente
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+***********************
+***** Dutch ***********
+***********************
+
+[DAT.Dutch.Scene2 Title]
+Type=2
+Data=Taal
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region Select]
+Type=2
+Data=A.U.B., Kies een taal
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region Default]
+Type=2
+Data=<Selecteren>
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 1]
+Type=2
+Data=Engels
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 2]
+Type=2
+Data=Japans
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 3]
+Type=2
+Data=Koreaans
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 4]
+Type=2
+Data=Chinees (Vereenvoudigd)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 5]
+Type=2
+Data=Chinees (Traditioneel)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Dutch.Region List]
+Type=14
+Data1=Engels
+Data2=Japans
+Data3=Koreaans
+Data4=Chinees (Vereenvoudigd)
+Data5=Chinees (Traditioneel)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Dutch.Exit1]
+Type=2
+Data=Stoppen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Dutch.Exit2]
+Type=2
+Data=Stoppen
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Dutch.Back]
+Type=2
+Data=Terug
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Dutch.Next]
+Type=2
+Data=Volgende
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+***********************
+***** Brazilian *******
+***********************
+
+[DAT.Brazilian.Scene2 Title]
+Type=2
+Data=Idioma
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region Select]
+Type=2
+Data=Selecione um idioma
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region Default]
+Type=2
+Data=<Selecione>
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 1]
+Type=2
+Data=InglÍs
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 2]
+Type=2
+Data=JaponÍs
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 3]
+Type=2
+Data=Coreano
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 4]
+Type=2
+Data=ChinÍs (Simplificado)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 5]
+Type=2
+Data=ChinÍs (Tradicional)
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Brazilian.Region List]
+Type=14
+Data1=InglÍs
+Data2=JaponÍs
+Data3=Coreano
+Data4=ChinÍs (Simplificado)
+Data5=ChinÍs (Tradicional)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Brazilian.Exit1]
+Type=2
+Data=Sair
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Brazilian.Exit2]
+Type=2
+Data=Sair
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Brazilian.Back]
+Type=2
+Data=Voltar
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Brazilian.Next]
+Type=2
+Data=PrÛxima
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+***********************
+***** Japanese ********
+***********************
+
+[DAT.Japanese.Scene2 Title]
+Type=2
+Data=åæåÍ
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region Select]
+Type=2
+Data=Ç®égÇ¢Ç…Ç»ÇÈåæåÍÇëIëÇµÇƒâ∫Ç≥Ç¢
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region Default]
+Type=2
+Data=<ëIë>
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 1]
+Type=2
+Data=âpåÍ
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 2]
+Type=2
+Data=ì˙ñ{åÍ
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 3]
+Type=2
+Data=äÿçëåÍ
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 4]
+Type=2
+Data=íÜçëåÍ (ä»ëÃéö)
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 5]
+Type=2
+Data=íÜçëåÍ (î…ëÃéö)
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=10
+
+[DAT.Japanese.Region List]
+Type=14
+Data1=âpåÍ
+Data2=ì˙ñ{åÍ
+Data3=äÿçëåÍ
+Data4=íÜçëåÍ (ä»ëÃéö)
+Data5=íÜçëåÍ (î…ëÃéö)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=9
+
+[DAT.Japanese.Exit1]
+Type=2
+Data=èIóπ
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=11
+
+[DAT.Japanese.Exit2]
+Type=2
+Data=èIóπ
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=11
+
+[DAT.Japanese.Back]
+Type=2
+Data=ñﬂÇÈ
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=11
+
+[DAT.Japanese.Next]
+Type=2
+Data=éüÇ÷
+Caption=
+Tooltip=
+Font=ÇlÇr ÇoÉSÉVÉbÉN
+Point Size=11
+
+***********************
+***** Korean **********
+***********************
+
+[DAT.Korean.Scene2 Title]
+Type=2
+Data=ææÓ
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region Select]
+Type=2
+Data=ææÓ¿ª º±≈√«œΩ Ω√ø¿
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region Default]
+Type=2
+Data=<º±≈√>
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 1]
+Type=2
+Data=øµæÓ
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 2]
+Type=2
+Data=¿œ∫ªæÓ
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 3]
+Type=2
+Data=«—±πæÓ
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 4]
+Type=2
+Data=¡ﬂ±πæÓ (∞£√º)
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 5]
+Type=2
+Data=¡ﬂ±πæÓ (π¯√º)
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=10
+
+[DAT.Korean.Region List]
+Type=14
+Data1=øµæÓ
+Data2=¿œ∫ªæÓ
+Data3=«—±πæÓ
+Data4=¡ﬂ±πæÓ (∞£√º)
+Data5=¡ﬂ±πæÓ (π¯√º)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=±º∏≤
+Point Size=9
+
+[DAT.Korean.Exit1]
+Type=2
+Data=¡æ∑·
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=11
+
+[DAT.Korean.Exit2]
+Type=2
+Data=¡æ∑·
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=11
+
+[DAT.Korean.Back]
+Type=2
+Data=µ⁄∑Œ
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=11
+
+[DAT.Korean.Next]
+Type=2
+Data=¥Ÿ¿Ω
+Caption=
+Tooltip=
+Font=±º∏≤
+Point Size=11
+
+***********************
+* Simplified Chinese **
+***********************
+
+[DAT.Simplified Chinese.Scene2 Title]
+Type=2
+Data=”Ô—‘
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region Select]
+Type=2
+Data=«Î—°‘Ò“ª÷÷”Ô—‘
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region Default]
+Type=2
+Data=<—°‘Ò>
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 1]
+Type=2
+Data=”¢”Ô
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 2]
+Type=2
+Data=»’”Ô
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 3]
+Type=2
+Data=≥Øœ ”Ô
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 4]
+Type=2
+Data=÷–Œƒ(ºÚÃÂ)
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 5]
+Type=2
+Data=÷–Œƒ(∑±ÃÂ)
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=10
+
+[DAT.Simplified Chinese.Region List]
+Type=14
+Data1=”¢”Ô
+Data2=»’”Ô
+Data3=≥Øœ ”Ô
+Data4=÷–Œƒ(ºÚÃÂ)
+Data5=÷–Œƒ(∑±ÃÂ)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=9
+
+[DAT.Simplified Chinese.Exit1]
+Type=2
+Data=ÕÀ≥ˆ
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=11
+
+[DAT.Simplified Chinese.Exit2]
+Type=2
+Data=ÕÀ≥ˆ
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=11
+
+[DAT.Simplified Chinese.Back]
+Type=2
+Data=…œ“ª≤Ω
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=11
+
+[DAT.Simplified Chinese.Next]
+Type=2
+Data=œ¬“ª≤Ω
+Caption=
+Tooltip=
+Font=ÀŒÃÂ
+Point Size=11
+
+***********************
+* Traditional Chinese *
+***********************
+
+[DAT.Traditional Chinese.Scene2 Title]
+Type=2
+Data=ªy®•
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region Select]
+Type=2
+Data=Ω–øÔæ‹§@∫ÿªy®•
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region Default]
+Type=2
+Data=<øÔæ‹>
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 1]
+Type=2
+Data=≠^ªy
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 2]
+Type=2
+Data=§Èªy
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 3]
+Type=2
+Data=¡˙∞Íªy
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 4]
+Type=2
+Data=§§§Â (¬≤≈È)
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 5]
+Type=2
+Data=§§§Â (¡c≈È)
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 6]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 7]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 8]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 9]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 10]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 11]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region 12]
+Type=2
+Data=
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=10
+
+[DAT.Traditional Chinese.Region List]
+Type=14
+Data1=≠^ªy
+Data2=§Èªy
+Data3=¡˙∞Íªy
+Data4=§§§Â (¬≤≈È)
+Data5=§§§Â (¡c≈È)
+Data6=
+Data7=
+Data8=
+Data9=
+Data10=
+Data11=
+Data12=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=9
+
+[DAT.Traditional Chinese.Exit1]
+Type=2
+Data=µ≤ßÙ
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=11
+
+[DAT.Traditional Chinese.Exit2]
+Type=2
+Data=µ≤ßÙ
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=11
+
+[DAT.Traditional Chinese.Back]
+Type=2
+Data=§W§@≠∂
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=11
+
+[DAT.Traditional Chinese.Next]
+Type=2
+Data=§U§@≠∂
+Caption=
+Tooltip=
+Font=∑s≤”©˙≈È
+Point Size=11
+

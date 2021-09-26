@@ -1,0 +1,224 @@
+
+[Ctrun_fr.dbd]
+DAT=
+
+[DAT.Software.Scene4 Title]
+Type=2
+Data=Installation en Français
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.Select Software]
+Type=2
+Data=Sélection des applications
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.Button 1 Checked State]
+Type=4
+Data=  SB Live! 24-bit External
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 2 Checked State]
+Type=4
+Data=  Creative MediaSource
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 3 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Button 4 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.View]
+Type=2
+Data=Affichage
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Software.User's Guide]
+Type=2
+Data=Manuel d'installation
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Multiple User Guide Menu]
+Type=13
+Title=
+Instructions=
+Data1=
+Data2=
+Font=Arial
+Point Size=0
+
+[DAT.Software.Tech Support]
+Type=2
+Data=Services d'assistance clientèle
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Creative Products]
+Type=2
+Data=Produits Creative
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Install]
+Type=2
+Data=Installer
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Install Disabled]
+Type=2
+Data=Installer
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Back]
+Type=2
+Data=Précédent
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Back Disabled]
+Type=2
+Data=Précédent
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Exit1]
+Type=2
+Data=Quitter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Exit2]
+Type=2
+Data=Quitter
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Software.Installing Text]
+Type=2
+Data=Installation en cours. Veuillez patienter quelques instants...
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Software.Exit Text]
+Type=2
+Data=Appuyez sur "Quitter" pour achever l'installation.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=9
+
+[DAT.Success.Scene5 Title]
+Type=2
+Data=Installation réussie
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Congratulations Title]
+Type=2
+Data=Félicitations !
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Congratulations Text]
+Type=2
+Data=Creative Sound Blaster Live! 24-bit External a été installé avec succès. Redémarrez votre ordinateur pour que les modifications prennent effet.
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Success.Install]
+Type=2
+Data=Suivant
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11
+
+[DAT.Restart PC.Scene6 Title]
+Type=2
+Data=Redémarrer l'ordinateur
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Restart Text]
+Type=2
+Data=Vous devez redémarrer votre ordinateur pour que les modifications prennent effet. 
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Restart Button Text]
+Type=2
+Data=Oui, je veux redémarrer mon ordinateur maintenant
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.No Restart Button Text]
+Type=2
+Data=Non, je redémarrerai mon ordinateur plus tard
+Caption=
+Tooltip=
+Font=Arial
+Point Size=10
+
+[DAT.Restart PC.Next]
+Type=2
+Data=Terminer
+Caption=
+Tooltip=
+Font=Arial
+Point Size=11

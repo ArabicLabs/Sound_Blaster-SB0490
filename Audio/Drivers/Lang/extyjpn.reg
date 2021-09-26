@@ -1,0 +1,183 @@
+REGEDIT4
+
+; Version 1.07
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9702-63D0-11d5-95E0-00A0C9817442}]
+"Name"="再生ｺﾝﾄﾛｰﾙ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64a-9DF6-11d5-A383-009027449656}]
+"Name"="録音ｺﾝﾄﾛｰﾙ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C647-9DF6-11d5-A383-009027449656}]
+"Name"="前後ﾊﾞﾗﾝｽ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C645-9DF6-11d5-A383-009027449656}]
+"Name"="ﾊﾞｽ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C646-9DF6-11d5-A383-009027449656}]
+"Name"="ﾄﾚﾌﾞﾙ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C649-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI ｺｰﾗｽ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C642-9DF6-11d5-A383-009027449656}]
+"Name"="Wave"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C648-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9707-63D0-11d5-95E0-00A0C9817442}]
+"Name"="ﾗｲﾝ ｲﾝ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C644-9DF6-11d5-A383-009027449656}]
+"Name"="ﾏｲｸ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C643-9DF6-11d5-A383-009027449656}]
+"Name"="CD"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9709-63D0-11d5-95E0-00A0C9817442}]
+"Name"="SPDIF ｲﾝ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64B-9DF6-11d5-A383-009027449656}]
+"Name"="ﾃﾞｼﾞﾀﾙ ｱｳﾄのみ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C641-9DF6-11d5-A383-009027449656}]
+"Name"="再生ﾘﾀﾞｲﾚｸﾄ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C640-9DF6-11d5-A383-009027449656}]
+"Name"="Wave/MIDI/CD"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64C-9DF6-11d5-A383-009027449656}]
+"Name"="ﾗｲﾝ ｲﾝ/ﾏｲｸ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C652-9DF6-11d5-A383-009027449656}]
+"Name"="ﾗｲﾝ ｲﾝ 1/ﾏｲｸ ｲﾝ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64D-9DF6-11d5-A383-009027449656}]
+"Name"="ﾗｲﾝ ｲﾝ 2/ｷﾞﾀｰ Hi-Z"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64E-9DF6-11d5-A383-009027449656}]
+"Name"="ﾗｲﾝ ｲﾝ 3/ﾌｫﾉ ｲﾝ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C650-9DF6-11d5-A383-009027449656}]
+"Name"="ﾏｲｸ ﾌﾞｰｽﾄ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C651-9DF6-11d5-A383-009027449656}]
+"Name"="ﾏｲｸ ﾌﾞｰｽﾄ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64F-9DF6-11d5-A383-009027449656}]
+"Name"="ｱﾅﾛｸﾞ ﾐｯｸｽ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{45DA3CE2-C7BE-4305-A5B7-17886D6FEE67}]
+"Name"="MIDI ﾘﾊﾞｰﾌﾞ"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C653-9DF6-11d5-A383-009027449656}]
+"Name"="ﾓﾆﾀﾘﾝｸﾞ有効"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName]
+"再生ｺﾝﾄﾛｰﾙ"="Play"
+"録音ｺﾝﾄﾛｰﾙ"="Rec"
+"前後ﾊﾞﾗﾝｽ"="FrontRear"
+"ﾊﾞｽ"="Bass"
+"ﾄﾚﾌﾞﾙ"="Treble"
+"MIDI ｺｰﾗｽ"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"ﾗｲﾝ ｲﾝ"="Line"
+"ﾏｲｸ"="Mic"
+"ﾗｲﾝ ｲﾝ/ﾏｲｸ"="LineMic"
+"CD"="CD"
+"SPDIF ｲﾝ"="GPSPDIF"
+"ﾃﾞｼﾞﾀﾙ ｱｳﾄのみ"="DOO"
+"再生ﾘﾀﾞｲﾚｸﾄ"="UHear"
+"Wave/MIDI/CD"="HMix"
+"ﾗｲﾝ ｲﾝ 1/ﾏｲｸ ｲﾝ"="Line1-Mic"
+"ﾗｲﾝ ｲﾝ 2/ｷﾞﾀｰ Hi-Z"="LineGuitar"
+"ﾗｲﾝ ｲﾝ 3/ﾌｫﾉ ｲﾝ"="LinePhono"
+"ｱﾅﾛｸﾞ ﾐｯｸｽ"="AnalogMix"
+"ﾏｲｸ ﾌﾞｰｽﾄ"="MicBoost"
+"MIDI ﾘﾊﾞｰﾌﾞ"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"ﾓﾆﾀﾘﾝｸﾞ有効"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName]
+"Play"="再生ｺﾝﾄﾛｰﾙ"
+"Rec"="録音ｺﾝﾄﾛｰﾙ"
+"FrontRear"="前後ﾊﾞﾗﾝｽ"
+"Bass"="ﾊﾞｽ"
+"Treble"="ﾄﾚﾌﾞﾙ"
+"Chorus"="MIDI ｺｰﾗｽ"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="ﾗｲﾝ ｲﾝ"
+"Mic"="ﾏｲｸ"
+"LineMic"="ﾗｲﾝ ｲﾝ/ﾏｲｸ"
+"CD"="CD"
+"GPSPDIF"="SPDIF ｲﾝ"
+"DOO"="ﾃﾞｼﾞﾀﾙ ｱｳﾄのみ"
+"UHear"="再生ﾘﾀﾞｲﾚｸﾄ"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="ﾗｲﾝ ｲﾝ 1/ﾏｲｸ ｲﾝ"
+"LineGuitar"="ﾗｲﾝ ｲﾝ 2/ｷﾞﾀｰ Hi-Z"
+"LinePhono"="ﾗｲﾝ ｲﾝ 3/ﾌｫﾉ ｲﾝ"
+"AnalogMix"="ｱﾅﾛｸﾞ ﾐｯｸｽ"
+"MicBoost"="ﾏｲｸ ﾌﾞｰｽﾄ"
+"MIDIReverb"="MIDI ﾘﾊﾞｰﾌﾞ"
+"Monitor"="ﾓﾆﾀﾘﾝｸﾞ有効"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName\Japanese]
+"再生ｺﾝﾄﾛｰﾙ"="Play"
+"録音ｺﾝﾄﾛｰﾙ"="Rec"
+"前後ﾊﾞﾗﾝｽ"="FrontRear"
+"ﾊﾞｽ"="Bass"
+"ﾄﾚﾌﾞﾙ"="Treble"
+"MIDI ｺｰﾗｽ"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"ﾗｲﾝ ｲﾝ"="Line"
+"ﾏｲｸ"="Mic"
+"ﾗｲﾝ ｲﾝ/ﾏｲｸ"="LineMic"
+"CD"="CD"
+"SPDIF ｲﾝ"="GPSPDIF"
+"ﾃﾞｼﾞﾀﾙ ｱｳﾄのみ"="DOO"
+"再生ﾘﾀﾞｲﾚｸﾄ"="UHear"
+"Wave/MIDI/CD"="HMix"
+"ﾗｲﾝ ｲﾝ 1/ﾏｲｸ ｲﾝ"="Line1-Mic"
+"ﾗｲﾝ ｲﾝ 2/ｷﾞﾀｰ Hi-Z"="LineGuitar"
+"ﾗｲﾝ ｲﾝ 3/ﾌｫﾉ ｲﾝ"="LinePhono"
+"ｱﾅﾛｸﾞ ﾐｯｸｽ"="AnalogMix"
+"ﾏｲｸ ﾌﾞｰｽﾄ"="MicBoost"
+"MIDI ﾘﾊﾞｰﾌﾞ"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"ﾓﾆﾀﾘﾝｸﾞ有効"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName\Japanese]
+"Play"="再生ｺﾝﾄﾛｰﾙ"
+"Rec"="録音ｺﾝﾄﾛｰﾙ"
+"FrontRear"="前後ﾊﾞﾗﾝｽ"
+"Bass"="ﾊﾞｽ"
+"Treble"="ﾄﾚﾌﾞﾙ"
+"Chorus"="MIDI ｺｰﾗｽ"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="ﾗｲﾝ ｲﾝ"
+"Mic"="ﾏｲｸ"
+"LineMic"="ﾗｲﾝ ｲﾝ/ﾏｲｸ"
+"CD"="CD"
+"GPSPDIF"="SPDIF ｲﾝ"
+"DOO"="ﾃﾞｼﾞﾀﾙ ｱｳﾄのみ"
+"UHear"="再生ﾘﾀﾞｲﾚｸﾄ"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="ﾗｲﾝ ｲﾝ 1/ﾏｲｸ ｲﾝ"
+"LineGuitar"="ﾗｲﾝ ｲﾝ 2/ｷﾞﾀｰ Hi-Z"
+"LinePhono"="ﾗｲﾝ ｲﾝ 3/ﾌｫﾉ ｲﾝ"
+"AnalogMix"="ｱﾅﾛｸﾞ ﾐｯｸｽ"
+"MicBoost"="ﾏｲｸ ﾌﾞｰｽﾄ"
+"MIDIReverb"="MIDI ﾘﾊﾞｰﾌﾞ"
+"Monitor"="ﾓﾆﾀﾘﾝｸﾞ有効"
+
+; Not Localisable
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUSB\MixerName]
+"Language"="Japanese"

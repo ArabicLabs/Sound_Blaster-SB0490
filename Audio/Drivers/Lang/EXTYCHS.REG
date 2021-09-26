@@ -1,0 +1,183 @@
+REGEDIT4
+
+; Version 1.07
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9702-63D0-11d5-95E0-00A0C9817442}]
+"Name"="播放控制"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64a-9DF6-11d5-A383-009027449656}]
+"Name"="录音控制"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C647-9DF6-11d5-A383-009027449656}]
+"Name"="前后平衡"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C645-9DF6-11d5-A383-009027449656}]
+"Name"="低音"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C646-9DF6-11d5-A383-009027449656}]
+"Name"="高音"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C649-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI 合声"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C642-9DF6-11d5-A383-009027449656}]
+"Name"="波形"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C648-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9707-63D0-11d5-95E0-00A0C9817442}]
+"Name"="线性-输入"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C644-9DF6-11d5-A383-009027449656}]
+"Name"="麦克风"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C643-9DF6-11d5-A383-009027449656}]
+"Name"="CD 音频"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9709-63D0-11d5-95E0-00A0C9817442}]
+"Name"="SPDIF 输入"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64B-9DF6-11d5-A383-009027449656}]
+"Name"="仅使用数字输出"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C641-9DF6-11d5-A383-009027449656}]
+"Name"="您听到的声音"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C640-9DF6-11d5-A383-009027449656}]
+"Name"="波形/MIDI/CD"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64C-9DF6-11d5-A383-009027449656}]
+"Name"="Line-In/麦克风输入"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C652-9DF6-11d5-A383-009027449656}]
+"Name"="Line-In 1 / 麦克风输入"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64D-9DF6-11d5-A383-009027449656}]
+"Name"="Line-In 2 / 吉他 Hi-Z"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64E-9DF6-11d5-A383-009027449656}]
+"Name"="Line-In 3 / Phono-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C650-9DF6-11d5-A383-009027449656}]
+"Name"="麦克风增益"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C651-9DF6-11d5-A383-009027449656}]
+"Name"="麦克风增益"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64F-9DF6-11d5-A383-009027449656}]
+"Name"="模拟混音"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{45DA3CE2-C7BE-4305-A5B7-17886D6FEE67}]
+"Name"="MIDI 混响"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C653-9DF6-11d5-A383-009027449656}]
+"Name"="启动监控"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName]
+"播放控制"="Play"
+"录音控制"="Rec"
+"前后平衡"="FrontRear"
+"低音"="Bass"
+"高音"="Treble"
+"MIDI 合声"="Chorus"
+"波形"="Wave"
+"MIDI"="MIDI"
+"线性-输入"="Line"
+"麦克风"="Mic"
+"Line-In/麦克风输入"="LineMic"
+"CD 音频"="CD"
+"SPDIF 输入"="GPSPDIF"
+"仅使用数字输出"="DOO"
+"您听到的声音"="UHear"
+"波形/MIDI/CD"="HMix"
+"Line-In 1 / 麦克风输入"="Line1-Mic"
+"Line-In 2 / 吉他 Hi-Z"="LineGuitar"
+"Line-In 3 / Phono-In"="LinePhono"
+"模拟混音"="AnalogMix"
+"麦克风增益"="MicBoost"
+"MIDI 混响"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"启动监控"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName]
+"Play"="播放控制"
+"Rec"="录音控制"
+"FrontRear"="前后平衡"
+"Bass"="低音"
+"Treble"="高音"
+"Chorus"="MIDI 合声"
+"Wave"="波形"
+"MIDI"="MIDI"
+"Line"="线性-输入"
+"Mic"="麦克风"
+"LineMic"="Line-In/麦克风输入"
+"CD"="CD 音频"
+"GPSPDIF"="SPDIF 输入"
+"DOO"="仅使用数字输出"
+"UHear"="您听到的声音"
+"HMix"="波形/MIDI/CD"
+"Line1-Mic"="Line-In 1 / 麦克风输入"
+"LineGuitar"="Line-In 2 / 吉他 Hi-Z"
+"LinePhono"="Line-In 3 / Phono-In"
+"AnalogMix"="模拟混音"
+"MicBoost"="麦克风增益"
+"MIDIReverb"="MIDI 混响"
+"Monitor"="启动监控"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName\CSimp]
+"播放控制"="Play"
+"录音控制"="Rec"
+"前后平衡"="FrontRear"
+"低音"="Bass"
+"高音"="Treble"
+"MIDI 合声"="Chorus"
+"波形"="Wave"
+"MIDI"="MIDI"
+"线性-输入"="Line"
+"麦克风"="Mic"
+"Line-In/麦克风输入"="LineMic"
+"CD 音频"="CD"
+"SPDIF 输入"="GPSPDIF"
+"仅使用数字输出"="DOO"
+"您听到的声音"="UHear"
+"波形/MIDI/CD"="HMix"
+"Line-In 1 / 麦克风输入"="Line1-Mic"
+"Line-In 2 / 吉他 Hi-Z"="LineGuitar"
+"Line-In 3 / Phono-In"="LinePhono"
+"模拟混音"="AnalogMix"
+"麦克风增益"="MicBoost"
+"MIDI 混响"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"启动监控"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName\CSimp]
+"Play"="播放控制"
+"Rec"="录音控制"
+"FrontRear"="前后平衡"
+"Bass"="低音"
+"Treble"="高音"
+"Chorus"="MIDI 合声"
+"Wave"="波形"
+"MIDI"="MIDI"
+"Line"="线性-输入"
+"Mic"="麦克风"
+"LineMic"="Line-In/麦克风输入"
+"CD"="CD 音频"
+"GPSPDIF"="SPDIF 输入"
+"DOO"="仅使用数字输出"
+"UHear"="您听到的声音"
+"HMix"="波形/MIDI/CD"
+"Line1-Mic"="Line-In 1 / 麦克风输入"
+"LineGuitar"="Line-In 2 / 吉他 Hi-Z"
+"LinePhono"="Line-In 3 / Phono-In"
+"AnalogMix"="模拟混音"
+"MicBoost"="麦克风增益"
+"MIDIReverb"="MIDI 混响"
+"Monitor"="启动监控"
+
+; Not Localisable
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUSB\MixerName]
+"Language"="CSimp"

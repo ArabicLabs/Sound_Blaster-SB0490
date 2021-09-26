@@ -1,0 +1,183 @@
+REGEDIT4
+
+; Version 1.07
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9702-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Wiedergabesteuerung"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64a-9DF6-11d5-A383-009027449656}]
+"Name"="Aufnahmesteuerung"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C647-9DF6-11d5-A383-009027449656}]
+"Name"="Balance vorne/hinten"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C645-9DF6-11d5-A383-009027449656}]
+"Name"="Bass"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C646-9DF6-11d5-A383-009027449656}]
+"Name"="Höhen"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C649-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI Chorus"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C642-9DF6-11d5-A383-009027449656}]
+"Name"="Wave"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C648-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9707-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Line-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C644-9DF6-11d5-A383-009027449656}]
+"Name"="Mikrofon"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C643-9DF6-11d5-A383-009027449656}]
+"Name"="CD Audio"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9709-63D0-11d5-95E0-00A0C9817442}]
+"Name"="SPDIF-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64B-9DF6-11d5-A383-009027449656}]
+"Name"="Nur digitale Ausgabe"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C641-9DF6-11d5-A383-009027449656}]
+"Name"="Was Sie hören"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C640-9DF6-11d5-A383-009027449656}]
+"Name"="Wave/MIDI/CD"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64C-9DF6-11d5-A383-009027449656}]
+"Name"="Eingang/Mikro"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C652-9DF6-11d5-A383-009027449656}]
+"Name"="Eingang 1 / Mikro"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64D-9DF6-11d5-A383-009027449656}]
+"Name"="Eingang 2 / Gitarre (Hi-Z)"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64E-9DF6-11d5-A383-009027449656}]
+"Name"="Eingang 3 / Phono"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C650-9DF6-11d5-A383-009027449656}]
+"Name"="Mikrofonverstärker"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C651-9DF6-11d5-A383-009027449656}]
+"Name"="Mikrofonverstärker"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64F-9DF6-11d5-A383-009027449656}]
+"Name"="Analog-Mix"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{45DA3CE2-C7BE-4305-A5B7-17886D6FEE67}]
+"Name"="MIDI Nachhall"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C653-9DF6-11d5-A383-009027449656}]
+"Name"="Überwachung aktivieren"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName]
+"Wiedergabesteuerung"="Play"
+"Aufnahmesteuerung"="Rec"
+"Balance vorne/hinten"="FrontRear"
+"Bass"="Bass"
+"Treble"="Treble"
+"MIDI Chorus"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line-In"="Line"
+"Mikrofon"="Mic"
+"Eingang/Mikro"="LineMic"
+"CD Audio"="CD"
+"SPDIF-In"="GPSPDIF"
+"Nur digitale Ausgabe"="DOO"
+"Was Sie hören"="UHear"
+"Wave/MIDI/CD"="HMix"
+"Eingang 1 / Mikro"="Line1-Mic"
+"Eingang 2 / Gitarre (Hi-Z)"="LineGuitar"
+"Eingang 3 / Phono"="LinePhono"
+"Analog-Mix"="AnalogMix"
+"Mikrofonverstärker"="MicBoost"
+"MIDI Nachhall"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"Überwachung aktivieren"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName]
+"Play"="Wiedergabesteuerung"
+"Rec"="Aufnahmesteuerung"
+"FrontRear"="Balance vorne/hinten"
+"Bass"="Bass"
+"Treble"="Höhen"
+"Chorus"="MIDI Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="Line-In"
+"Mic"="Mikrofon"
+"LineMic"="Eingang/Mikro"
+"CD"="CD Audio"
+"GPSPDIF"="SPDIF-In"
+"DOO"="Nur digitale Ausgabe"
+"UHear"="Was Sie hören"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="Eingang 1 / Mikro"
+"LineGuitar"="Eingang 2 / Gitarre (Hi-Z)"
+"LinePhono"="Eingang 3 / Phono"
+"AnalogMix"="Analog-Mix"
+"MicBoost"="Mikrofonverstärker"
+"MIDIReverb"="MIDI Nachhall"
+"Monitor"="Überwachung aktivieren"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName\German]
+"Wiedergabesteuerung"="Play"
+"Aufnahmesteuerung"="Rec"
+"Balance vorne/hinten"="FrontRear"
+"Bass"="Bass"
+"Höhen"="Treble"
+"MIDI Chorus"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line-In"="Line"
+"Mikrofon"="Mic"
+"Eingang/Mikro"="LineMic"
+"CD Audio"="CD"
+"SPDIF-In"="GPSPDIF"
+"Nur digitale Ausgabe"="DOO"
+"Was Sie hören"="UHear"
+"Wave/MIDI/CD"="HMix"
+"Eingang 1 / Mikro"="Line1-Mic"
+"Eingang 2 / Gitarre (Hi-Z)"="LineGuitar"
+"Eingang 3 / Phono"="LinePhono"
+"Analog-Mix"="AnalogMix"
+"Mikrofonverstärker"="MicBoost"
+"MIDI Nachhall"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"Überwachung aktivieren"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName\German]
+"Play"="Wiedergabesteuerung"
+"Rec"="Aufnahmesteuerung"
+"FrontRear"="Balance vorne/hinten"
+"Bass"="Bass"
+"Treble"="Höhen"
+"Chorus"="MIDI Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="Line-In"
+"Mic"="Mikrofon"
+"LineMic"="Eingang/Mikro"
+"CD"="CD Audio"
+"GPSPDIF"="SPDIF-In"
+"DOO"="Nur digitale Ausgabe"
+"UHear"="Was Sie hören"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="Eingang 1 / Mikro"
+"LineGuitar"="Eingang 2 / Gitarre (Hi-Z)"
+"LinePhono"="Eingang 3 / Phono"
+"AnalogMix"="Analog-Mix"
+"MicBoost"="Mikrofonverstärker"
+"MIDIReverb"="MIDI Nachhall"
+"Monitor"="Überwachung aktivieren"
+
+; Not Localisable
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUSB\MixerName]
+"Language"="German"

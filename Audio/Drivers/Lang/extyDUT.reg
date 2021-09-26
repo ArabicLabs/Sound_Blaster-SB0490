@@ -1,0 +1,183 @@
+REGEDIT4
+
+; Version 1.07
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9702-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Regeling voor afspelen"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64a-9DF6-11d5-A383-009027449656}]
+"Name"="Opnameregeling"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C647-9DF6-11d5-A383-009027449656}]
+"Name"="Balans voor en achter"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C645-9DF6-11d5-A383-009027449656}]
+"Name"="Lage tonen"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C646-9DF6-11d5-A383-009027449656}]
+"Name"="Hoge tonen"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C649-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI Chorus"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C642-9DF6-11d5-A383-009027449656}]
+"Name"="Wave"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C648-9DF6-11d5-A383-009027449656}]
+"Name"="MIDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9707-63D0-11d5-95E0-00A0C9817442}]
+"Name"="Lijningang"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C644-9DF6-11d5-A383-009027449656}]
+"Name"="Microfoon"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C643-9DF6-11d5-A383-009027449656}]
+"Name"="Cd-audio"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{D00A9709-63D0-11d5-95E0-00A0C9817442}]
+"Name"="SPDIF in"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64B-9DF6-11d5-A383-009027449656}]
+"Name"="Alleen digitale uitvoer"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C641-9DF6-11d5-A383-009027449656}]
+"Name"="Wat men hoort"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C640-9DF6-11d5-A383-009027449656}]
+"Name"="Wave/MIDI/CD"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64C-9DF6-11d5-A383-009027449656}]
+"Name"="Lijningang/Microfoon"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C652-9DF6-11d5-A383-009027449656}]
+"Name"="Lijningang 1 / Microfoon"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64D-9DF6-11d5-A383-009027449656}]
+"Name"="Lijningang 2 / Guitar Hi-Z"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64E-9DF6-11d5-A383-009027449656}]
+"Name"="Lijningang 3 / Phono-In"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C650-9DF6-11d5-A383-009027449656}]
+"Name"="Microfoon-boost"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C651-9DF6-11d5-A383-009027449656}]
+"Name"="Microfoon-boost"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C64F-9DF6-11d5-A383-009027449656}]
+"Name"="Analoge mix"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{45DA3CE2-C7BE-4305-A5B7-17886D6FEE67}]
+"Name"="MIDI-reverb"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\MediaCategories\{E615C653-9DF6-11d5-A383-009027449656}]
+"Name"="Controle inschakelen"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName]
+"Regeling voor afspelen"="Play"
+"Opnameregeling"="Rec"
+"Balans voor en achter"="FrontRear"
+"Bass"="Bass"
+"Treble"="Treble"
+"MIDI Chorus"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Lijningang"="Line"
+"Microfoon"="Mic"
+"Lijningang/Microfoon"="LineMic"
+"Cd-audio"="CD"
+"SPDIF in"="GPSPDIF"
+"Alleen digitale uitvoer"="DOO"
+"Wat men hoort"="UHear"
+"Wave/MIDI/CD"="HMix"
+"Lijningang 1 / Microfoon"="Line1-Mic"
+"Lijningang 2 / Guitar Hi-Z"="LineGuitar"
+"Lijningang 3 / Phono-In"="LinePhono"
+"Analoge mix"="AnalogMix"
+"Microfoon-boost"="MicBoost"
+"MIDI-reverb"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"Controle inschakelen"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName]
+"Play"="Regeling voor afspelen"
+"Rec"="Opnameregeling"
+"FrontRear"="Balans voor en achter"
+"Bass"="Lage tonen"
+"Treble"="Hoge tonen"
+"Chorus"="MIDI Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="Lijningang"
+"Mic"="Microfoon"
+"LineMic"="Lijningang/Microfoon"
+"CD"="Cd-audio"
+"GPSPDIF"="SPDIF in"
+"DOO"="Alleen digitale uitvoer"
+"UHear"="Wat men hoort"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="Lijningang 1 / Microfoon"
+"LineGuitar"="Lijningang 2 / Guitar Hi-Z"
+"LinePhono"="Lijningang 3 / Phono-In"
+"AnalogMix"="Analoge mix"
+"MicBoost"="Microfoon-boost"
+"MIDIReverb"="MIDI-reverb"
+"Monitor"="Controle inschakelen"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\MixerName\Dutch]
+"Regeling voor afspelen"="Play"
+"Opnameregeling"="Rec"
+"Balans voor en achter"="FrontRear"
+"Lage tonen"="Bass"
+"Hoge tonen"="Treble"
+"MIDI Chorus"="Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Lijningang"="Line"
+"Microfoon"="Mic"
+"Lijningang/Microfoon"="LineMic"
+"Cd-audio"="CD"
+"SPDIF in"="GPSPDIF"
+"Alleen digitale uitvoer"="DOO"
+"Wat men hoort"="UHear"
+"Wave/MIDI/CD"="HMix"
+"Lijningang 1 / Microfoon"="Line1-Mic"
+"Lijningang 2 / Guitar Hi-Z"="LineGuitar"
+"Lijningang 3 / Phono-In"="LinePhono"
+"Analoge mix"="AnalogMix"
+"Microfoon-boost"="MicBoost"
+"MIDI-reverb"="MIDIReverb"
+; Audigy Wave String for Co-existance issues
+"Wave/MP3"="Wave"
+"Controle inschakelen"="Monitor"
+
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUsb\MixerName\Dutch]
+"Play"="Regeling voor afspelen"
+"Rec"="Opnameregeling"
+"FrontRear"="Balans voor en achter"
+"Bass"="Lage tonen"
+"Treble"="Hoge tonen"
+"Chorus"="MIDI Chorus"
+"Wave"="Wave"
+"MIDI"="MIDI"
+"Line"="Lijningang"
+"Mic"="Microfoon"
+"LineMic"="Lijningang/Microfoon"
+"CD"="Cd-audio"
+"GPSPDIF"="SPDIF in"
+"DOO"="Alleen digitale uitvoer"
+"UHear"="Wat men hoort"
+"HMix"="Wave/MIDI/CD"
+"Line1-Mic"="Lijningang 1 / Microfoon"
+"LineGuitar"="Lijningang 2 / Guitar Hi-Z"
+"LinePhono"="Lijningang 3 / Phono-In"
+"AnalogMix"="Analoge mix"
+"MicBoost"="Microfoon-boost"
+"MIDIReverb"="MIDI-reverb"
+"Monitor"="Controle inschakelen"
+
+; Not Localisable
+[HKEY_LOCAL_MACHINE\Software\Creative Tech\SBUSB\MixerName]
+"Language"="Dutch"

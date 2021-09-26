@@ -1,0 +1,223 @@
+[Ctrun_ct.dbd]
+DAT=
+
+[DAT.Software.Scene4 Title]
+Type=2
+Data=繁體中文版安裝
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Software.Select Software]
+Type=2
+Data=請選擇您要安裝的應用程式
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Software.Button 1 Checked State]
+Type=4
+Data=  SB Live! 24-bit External
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Software.Button 2 Checked State]
+Type=4
+Data=  Creative MediaSource
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Software.Button 3 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Software.Button 4 Checked State]
+Type=4
+Data=  
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Software.View]
+Type=2
+Data=查看
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Software.User's Guide]
+Type=2
+Data=使用者指南
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Software.Multiple User Guide Menu]
+Type=13
+Title=
+Instructions=
+Data1=
+Data2=
+Font=新細明體
+Point Size=0
+
+[DAT.Software.Tech Support]
+Type=2
+Data=客戶支援服務
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Software.Creative Products]
+Type=2
+Data=Creative 產品
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Software.Install]
+Type=2
+Data=安裝
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=11
+
+[DAT.Software.Install Disabled]
+Type=2
+Data=安裝
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=11
+
+[DAT.Software.Back]
+Type=2
+Data=上一頁
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=11
+
+[DAT.Software.Back Disabled]
+Type=2
+Data=上一頁
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=11
+
+[DAT.Software.Exit1]
+Type=2
+Data=結束
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=11
+
+[DAT.Software.Exit2]
+Type=2
+Data=結束
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=11
+
+[DAT.Software.Installing Text]
+Type=2
+Data=安裝正在進行中。請稍候...
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Software.Exit Text]
+Type=2
+Data=單按'結束'結束安裝。
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=9
+
+[DAT.Success.Scene5 Title]
+Type=2
+Data=成功安裝
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Success.Congratulations Title]
+Type=2
+Data=祝賀您!
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Success.Congratulations Text]
+Type=2
+Data=Creative Sound Blaster Live! 24-bit External 已被成功安裝。 請切記重新啟動電腦系統以使做出的變更生效。
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Success.Install]
+Type=2
+Data=下一步
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=11
+
+[DAT.Restart PC.Scene6 Title]
+Type=2
+Data=重新啟動電腦
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Restart PC.Restart Text]
+Type=2
+Data=您必須重新啟動電腦，以使變更生效。 
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Restart PC.Restart Button Text]
+Type=2
+Data=是，我要現在重新啟動電腦
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Restart PC.No Restart Button Text]
+Type=2
+Data=不，我要稍後再重新啟動電腦
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=10
+
+[DAT.Restart PC.Next]
+Type=2
+Data=完成
+Caption=
+Tooltip=
+Font=新細明體
+Point Size=11
