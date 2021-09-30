@@ -11,7 +11,7 @@
 ##### 3 : **IMPORTANT!: Pick custom installation & unmark these: `Creative EAX Settings`, `Device Control`, `Creative Speaker Settings`, `Windows Drivers`.**
 ##### 4 : **NOTE!: When you finish the installation it will bug for couple of minutes, you need to press `Exit` and restart my computer and you are ready to go!.**
 
-## Arabian Installation.
+## Arabic Installation.
 
 - **بينزل شرح باليوتيوب قريب انشاءالله .**
 
